@@ -222,5 +222,27 @@ EventLogs %>% filter(isRepeated != "1") -> EventLogs
 #keep last occurrence of centain event
 keepLastEvent(EventLogs, company_id, event, "Edit Data Source") -> EventLogs
 
+## delete all events
+deleteAllEvents(EventLogs, event, "Slack Share") -> EventLogs
+
+
+## merge rows
+mergeRows(EventLogs, .(company_id, event), summarise, 
+          time = first(time),
+          kpi_count = median(kpi_count),
+          graphs_owned = median(graphs_owned),
+          guide_name = paste(unique(guide_name),
+          collapse=','),
+          guide_type = paste(unique(guide_type),
+          collapse=','),
+          number_of_graphs = max(number_of_graphs),
+          number_of_graphs_on_dashboard = sum(number_of_graphs_on_dashboard),
+          connector_backend= paste(unique(connector_backend), collapse = ','),
+          x_city = paste(unique(x_city), collapse = ','),
+          weekday = paste(unique(weekday), collapse = ',')) -> EventLogs
+
+## write to CSV file
+writeCSV(EventLogs, "dataSet.csv")
+
 
 
