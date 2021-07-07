@@ -8,26 +8,42 @@ library(plyr)
 library(janitor)
 
 #read a CSV file
+#readCSV(String file):The readCSV function reads the CSV file into a dataframe that it creates. 
+#Arguments: file is the CSV file in the select work directory.
+#Returns a dataframe
 readCSV <- function(filename) {
   read.csv(file=filename, header=TRUE, sep=",")
 }
 
 #write to CSV file
+#writeCSV(table DataSet, String file):The writeCSV function writes the dataframe to a CSV file.
+#Arguments: DataSet is the name of dataframe to save, file is the name of the CSV output file.
+#Returns a CSV file
 writeCSV <- function(dataset){
   write.csv(dataset, file=filename)
 }
 
 #clean column headers
+#cleanHeaders(table DataSet)
+#This function cleans the headers of the columns from spaces and other special characters.
+#It only keeps lower case letters, numbers, and underscores (_). The spaces are replaced by ‘_’ and the special characters are removed. 
+#Returns a dataframe with clean header names
 cleanHeaders <- function(dataset){
   dataset %>% clean_names() -> dataset
 }
 
 #arrange records/rows
+
 arrangeRows <- function(.dataset, ...){
   arrange(.dataset, ...) -> dataset
 }
 
 #select dataset columns for analysis
+#selectColumns(table DataSet, string columnName, …): This function selects/keeps the list columns needed for analysis from the dataset. Only the
+#list of selected columns/attributes are included in the dataset. 
+#Arguments: DataSet is the name of the dataframe, columnName is the name of the column to keep in the dataset. Many can be listed, separated by commas.
+#Returns a dataset including only the list of columns/attributes that are selected
+
 selectColumns <- function(dataset, ...){
   dataset %>% select(...) -> dataset
 }
@@ -206,7 +222,5 @@ EventLogs %>% filter(isRepeated != "1") -> EventLogs
 #keep last occurrence of centain event
 keepLastEvent(EventLogs, company_id, event, "Edit Data Source") -> EventLogs
 
-#delete all events
 
-#merge rows
 
