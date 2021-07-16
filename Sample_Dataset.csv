@@ -1,0 +1,867 @@
+#,Company.ID,event,time,Theme,Account.Users,Metric.Count,Graph.Origin,Number.of.Graphs.on.Dashboard,Graphs.Owned
+1,b8610d38ddca3692d34a55594e0b4df5,View Dashboard,8/1/2018 0:00,Dark,1,NA,,NA,47
+2,6c5941a5643cbcc803d42298adec6661,View Dashboard,8/1/2018 0:00,Light,41,NA,,NA,0
+3,b8610d38ddca3692d34a55594e0b4df5,Graph Editor,8/1/2018 0:00,,1,NA,Custom,NA,47
+4,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,8/1/2018 0:00,,1,NA,Custom,NA,15
+5,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:00,Light,1,NA,,NA,8
+6,b8610d38ddca3692d34a55594e0b4df5,Create Data Source,8/1/2018 0:00,,1,NA,,NA,47
+7,b8610d38ddca3692d34a55594e0b4df5,Connector Search,8/1/2018 0:00,,1,NA,,NA,47
+8,b8610d38ddca3692d34a55594e0b4df5,Data Source Connector,8/1/2018 0:00,,1,NA,,NA,47
+9,b8610d38ddca3692d34a55594e0b4df5,DS Template Selected,8/1/2018 0:00,,1,NA,,NA,47
+10,b8610d38ddca3692d34a55594e0b4df5,Data Source Created,8/1/2018 0:00,,1,NA,,NA,50
+11,f9375b795735486891aae3367d0adc7b,View Dashboard,8/1/2018 0:00,Light,11,NA,,NA,0
+12,f9375b795735486891aae3367d0adc7b,Tab Switched,8/1/2018 0:00,,11,NA,,NA,0
+13,0350cd2785e3e1565e068c557ebb8f1a,Orientation Switch,8/1/2018 0:00,,17,NA,,NA,0
+14,197c731783a51319754597fea6c43112,Orientation Switch,8/1/2018 0:01,,112,NA,,NA,0
+15,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,8/1/2018 0:01,,1,NA,Custom,NA,8
+16,3cdc5e38a59a03a8e1b03abfb748b59a,Trial Sign Up Completed,8/1/2018 0:01,,1,NA,,NA,8
+17,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:01,,1,NA,Custom,NA,8
+18,3cdc5e38a59a03a8e1b03abfb748b59a,Guide Start,8/1/2018 0:01,,1,NA,,NA,8
+19,3cdc5e38a59a03a8e1b03abfb748b59a,Guide Exit,8/1/2018 0:01,,1,NA,,NA,8
+20,3cdc5e38a59a03a8e1b03abfb748b59a,Guide Start,8/1/2018 0:01,,1,NA,,NA,8
+21,3cdc5e38a59a03a8e1b03abfb748b59a,Guide Start,8/1/2018 0:01,,1,NA,,NA,8
+22,296411f5ce302103d499ca4656fb8c71,View Dashboard,8/1/2018 0:01,Light,1,NA,,NA,8
+23,2a3c721d40a0b403125991ca1cf77a28,View Dashboard,8/1/2018 0:01,Light,32,NA,,NA,0
+24,0350cd2785e3e1565e068c557ebb8f1a,Orientation Switch,8/1/2018 0:01,,17,NA,,NA,0
+25,b8610d38ddca3692d34a55594e0b4df5,Graph Editor,8/1/2018 0:01,,1,NA,Custom,NA,47
+26,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,8/1/2018 0:01,,1,NA,Custom,NA,15
+27,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:02,Dark,1,NA,,NA,8
+28,b8610d38ddca3692d34a55594e0b4df5,View Dashboard,8/1/2018 0:02,Dark,1,NA,,NA,47
+29,2a3c721d40a0b403125991ca1cf77a28,View Dashboard,8/1/2018 0:02,Light,32,NA,,NA,0
+30,ea0a1aa5119972fc3c8b79db33fcc37b,View Dashboard,8/1/2018 0:02,Light,2,NA,,NA,60
+31,b9ad6d74631f80d4fc1384c0fcf5f115,View Dashboard,8/1/2018 0:03,Light,4,NA,,NA,121
+32,3cdc5e38a59a03a8e1b03abfb748b59a,Create Data Source,8/1/2018 0:03,,1,NA,,NA,8
+33,3cdc5e38a59a03a8e1b03abfb748b59a,Data Source Connector,8/1/2018 0:03,,1,NA,,NA,8
+34,51b809b091fc0f51dc7aca9ddc486bfe,Add Button,8/1/2018 0:03,,1,NA,,NA,8
+35,51b809b091fc0f51dc7aca9ddc486bfe,Build a New Graph Button,8/1/2018 0:04,,1,NA,,NA,8
+36,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:04,,1,NA,Custom,NA,8
+37,3cdc5e38a59a03a8e1b03abfb748b59a,DS Template Selected,8/1/2018 0:04,,1,NA,,NA,8
+38,31706a205dcad526617c7247ea535d98,View Dashboard,8/1/2018 0:04,Light,2,NA,,NA,18
+39,405d25d7e476a63d4cfc49f1c7cb38f0,View Dashboard,8/1/2018 0:04,Light,1,NA,,NA,23
+40,763bf501a2bf11277ac40a2b230f0c34,View Dashboard,8/1/2018 0:04,Light,4,NA,,NA,0
+41,405d25d7e476a63d4cfc49f1c7cb38f0,View Dashboard,8/1/2018 0:04,Light,1,NA,,NA,23
+42,405d25d7e476a63d4cfc49f1c7cb38f0,Edit Graph from Dashboard,8/1/2018 0:04,,1,NA,Custom,NA,23
+43,405d25d7e476a63d4cfc49f1c7cb38f0,Graph Editor,8/1/2018 0:04,,1,NA,Custom,NA,23
+44,763bf501a2bf11277ac40a2b230f0c34,Show More Graphs,8/1/2018 0:04,,4,NA,,15,0
+45,763bf501a2bf11277ac40a2b230f0c34,Show More Graphs,8/1/2018 0:04,,4,NA,,15,0
+46,7d414a1fd535217b4c83ea005a5c686e,View Dashboard,8/1/2018 0:05,Dark,2,NA,,NA,21
+47,3cdc5e38a59a03a8e1b03abfb748b59a,Data Source Created,8/1/2018 0:05,,1,NA,,NA,8
+48,4da83fc3e758478f4e0d92de1cd8da7e,View Dashboard,8/1/2018 0:05,Light,181,NA,,NA,0
+49,4da83fc3e758478f4e0d92de1cd8da7e,Tab Switched,8/1/2018 0:06,,181,NA,,NA,0
+50,6c5941a5643cbcc803d42298adec6661,View Dashboard,8/1/2018 0:06,Light,41,NA,,NA,0
+51,3cdc5e38a59a03a8e1b03abfb748b59a,View Dashboard,8/1/2018 0:06,Light,1,NA,,NA,8
+52,1fb0c38e91eb39efd7740c35b063fcaa,Graph Saved in Editor,8/1/2018 0:06,,1,NA,Template,NA,9
+53,4da83fc3e758478f4e0d92de1cd8da7e,Tab Switched,8/1/2018 0:06,,181,NA,,NA,0
+54,1fb0c38e91eb39efd7740c35b063fcaa,View Dashboard,8/1/2018 0:06,Light,1,NA,,NA,8
+55,3cdc5e38a59a03a8e1b03abfb748b59a,Add Blank Tab,8/1/2018 0:06,,1,NA,,NA,8
+56,0350cd2785e3e1565e068c557ebb8f1a,Orientation Switch,8/1/2018 0:06,,17,NA,,NA,0
+57,4da83fc3e758478f4e0d92de1cd8da7e,Tab Switched,8/1/2018 0:06,,181,NA,,NA,0
+58,938922ddb1a818ff3b39b8178ba9a3a1,View Dashboard,8/1/2018 0:06,Light,13,NA,,NA,0
+59,405d25d7e476a63d4cfc49f1c7cb38f0,Graph Saved in Editor,8/1/2018 0:06,,1,NA,Custom,NA,23
+60,405d25d7e476a63d4cfc49f1c7cb38f0,View Dashboard,8/1/2018 0:06,Light,1,NA,,NA,23
+61,4da83fc3e758478f4e0d92de1cd8da7e,Show More Graphs,8/1/2018 0:06,,181,NA,,7,0
+62,933e7adea48e17154e5bab383c4de740,View Dashboard,8/1/2018 0:06,Light,1,NA,,NA,8
+63,013e23de101611ec4ba9f65a089981aa,View Dashboard,8/1/2018 0:07,Light,71,NA,,NA,7
+64,013e23de101611ec4ba9f65a089981aa,Tab Switched,8/1/2018 0:07,,71,NA,,NA,7
+65,3cdc5e38a59a03a8e1b03abfb748b59a,Build Graph from Library,8/1/2018 0:07,,1,NA,,NA,8
+66,d96cf694dc904841288eb48c58d05d72,View Dashboard,8/1/2018 0:07,Light,3,NA,,NA,29
+67,3cdc5e38a59a03a8e1b03abfb748b59a,Graph Editor,8/1/2018 0:07,,1,NA,Custom,NA,8
+68,d3a3f99b312aecb7ea7fdb88817ddbc4,View Dashboard,8/1/2018 0:07,Light,118,NA,,NA,0
+69,938922ddb1a818ff3b39b8178ba9a3a1,View Dashboard,8/1/2018 0:08,Light,13,NA,,NA,0
+70,3cdc5e38a59a03a8e1b03abfb748b59a,Guide Start,8/1/2018 0:08,,1,NA,,NA,8
+71,d3a3f99b312aecb7ea7fdb88817ddbc4,Add Existing Tab,8/1/2018 0:08,,118,NA,,NA,0
+72,1fb0c38e91eb39efd7740c35b063fcaa,Add Button,8/1/2018 0:08,,1,NA,,NA,8
+73,02beb6333cf4c95ba91e1c9b0c0b4c18,View Dashboard,8/1/2018 0:08,Dark,NA,NA,,NA,NA
+74,938922ddb1a818ff3b39b8178ba9a3a1,Show More Graphs,8/1/2018 0:08,,13,NA,,6,0
+75,51b809b091fc0f51dc7aca9ddc486bfe,Create Data Source,8/1/2018 0:08,,1,NA,,NA,8
+76,013e23de101611ec4ba9f65a089981aa,View Dashboard,8/1/2018 0:08,Light,71,NA,,NA,7
+77,d3a3f99b312aecb7ea7fdb88817ddbc4,Show More Graphs,8/1/2018 0:08,,118,NA,,8,0
+78,1fb0c38e91eb39efd7740c35b063fcaa,Graph Editor,8/1/2018 0:08,,1,NA,Custom,NA,8
+79,51b809b091fc0f51dc7aca9ddc486bfe,Data Source Connector,8/1/2018 0:08,,1,NA,,NA,8
+80,d3a3f99b312aecb7ea7fdb88817ddbc4,Orientation Switch,8/1/2018 0:09,,118,NA,,NA,0
+81,0350cd2785e3e1565e068c557ebb8f1a,Orientation Switch,8/1/2018 0:09,,17,NA,,NA,0
+82,3cdc5e38a59a03a8e1b03abfb748b59a,Graph Editor,8/1/2018 0:09,,1,NA,Custom,NA,8
+83,1caf640d9d16265cb7281cc7ccf8ab55,View Dashboard,8/1/2018 0:09,Light,1,NA,,NA,8
+84,013e23de101611ec4ba9f65a089981aa,View Dashboard,8/1/2018 0:09,Light,71,NA,,NA,7
+85,6c5941a5643cbcc803d42298adec6661,View Dashboard,8/1/2018 0:09,Light,41,NA,,NA,0
+86,1bc6375691d4a6f82025cf6c57709da5,Create Data Source,8/1/2018 0:10,,1,NA,,NA,14
+87,1caf640d9d16265cb7281cc7ccf8ab55,Trial Sign Up Completed,8/1/2018 0:10,,1,NA,,NA,8
+88,938922ddb1a818ff3b39b8178ba9a3a1,View Dashboard,8/1/2018 0:10,Light,13,NA,,NA,0
+89,1caf640d9d16265cb7281cc7ccf8ab55,Guide Start,8/1/2018 0:10,,1,NA,,NA,8
+90,51b809b091fc0f51dc7aca9ddc486bfe,Create Data Source,8/1/2018 0:10,,1,NA,,NA,8
+91,bb44ea9a534e3f0e0b6a723cf87eba42,View Dashboard,8/1/2018 0:10,Light,69,NA,,NA,0
+92,51b809b091fc0f51dc7aca9ddc486bfe,Data Source Connector,8/1/2018 0:10,,1,NA,,NA,8
+93,013e23de101611ec4ba9f65a089981aa,View Dashboard,8/1/2018 0:10,Light,71,NA,,NA,7
+94,1caf640d9d16265cb7281cc7ccf8ab55,View Dashboard,8/1/2018 0:10,Light,1,NA,,NA,8
+95,1caf640d9d16265cb7281cc7ccf8ab55,Guide Start,8/1/2018 0:10,,1,NA,,NA,8
+96,1caf640d9d16265cb7281cc7ccf8ab55,Guide Exit,8/1/2018 0:10,,1,NA,,NA,8
+97,013e23de101611ec4ba9f65a089981aa,View Dashboard,8/1/2018 0:10,Light,71,NA,,NA,7
+98,1caf640d9d16265cb7281cc7ccf8ab55,Guide Start,8/1/2018 0:10,,1,NA,,NA,8
+99,bb44ea9a534e3f0e0b6a723cf87eba42,Orientation Switch,8/1/2018 0:10,,69,NA,,NA,0
+100,51b809b091fc0f51dc7aca9ddc486bfe,Data Source Created,8/1/2018 0:10,,1,NA,,NA,15
+101,1caf640d9d16265cb7281cc7ccf8ab55,Guide Exit,8/1/2018 0:10,,1,NA,,NA,8
+102,1caf640d9d16265cb7281cc7ccf8ab55,Guide Start,8/1/2018 0:10,,1,NA,,NA,8
+103,1caf640d9d16265cb7281cc7ccf8ab55,Add Blank Tab,8/1/2018 0:10,,1,NA,,NA,8
+104,013e23de101611ec4ba9f65a089981aa,View Dashboard,8/1/2018 0:10,Light,71,NA,,NA,7
+105,1caf640d9d16265cb7281cc7ccf8ab55,Add Button,8/1/2018 0:10,,1,NA,,NA,8
+106,1caf640d9d16265cb7281cc7ccf8ab55,Guide Exit,8/1/2018 0:10,,1,NA,,NA,8
+107,1caf640d9d16265cb7281cc7ccf8ab55,Guide Start,8/1/2018 0:10,,1,NA,,NA,8
+108,b8610d38ddca3692d34a55594e0b4df5,Build Graph from Library,8/1/2018 0:11,,1,NA,,NA,50
+109,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,8/1/2018 0:11,,1,NA,Custom,NA,15
+110,b8610d38ddca3692d34a55594e0b4df5,Graph Editor,8/1/2018 0:11,,1,NA,Custom,NA,47
+111,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:11,Dark,1,NA,,NA,8
+112,1caf640d9d16265cb7281cc7ccf8ab55,Guide Exit,8/1/2018 0:11,,1,NA,,NA,8
+113,1caf640d9d16265cb7281cc7ccf8ab55,Graph Editor,8/1/2018 0:11,,1,NA,Custom,NA,8
+114,d3a3f99b312aecb7ea7fdb88817ddbc4,Orientation Switch,8/1/2018 0:11,,118,NA,,NA,0
+115,716710665c939a34c93ad4237340581a,View Dashboard,8/1/2018 0:11,Light,5,NA,,NA,0
+116,938922ddb1a818ff3b39b8178ba9a3a1,Orientation Switch,8/1/2018 0:12,,13,NA,,NA,0
+117,013e23de101611ec4ba9f65a089981aa,View Dashboard,8/1/2018 0:12,Light,71,NA,,NA,7
+118,0cb9a8a08a803866118c0d5aaea84ba7,View Dashboard,8/1/2018 0:12,Light,1,NA,,NA,8
+119,d9e907d966a6cdbba901bb5e753459ba,View Dashboard,8/1/2018 0:13,Light,50,NA,,NA,0
+120,b8610d38ddca3692d34a55594e0b4df5,Graph Editor,8/1/2018 0:13,,1,NA,Custom,NA,47
+121,b8610d38ddca3692d34a55594e0b4df5,Graph Editor,8/1/2018 0:14,,1,NA,Custom,NA,47
+122,b8610d38ddca3692d34a55594e0b4df5,View Dashboard,8/1/2018 0:14,Dark,1,NA,,NA,47
+123,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,8/1/2018 0:14,,1,NA,Custom,NA,8
+124,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:14,,1,NA,Custom,NA,8
+125,11912946febc33d58237d0a3e2134c25,View Dashboard,8/1/2018 0:14,Light,1,NA,,NA,20
+126,d8baa6bcc102652f12221fe18eec4705,View Dashboard,8/1/2018 0:14,Light,19,NA,,NA,0
+127,11912946febc33d58237d0a3e2134c25,Show More Graphs,8/1/2018 0:15,,1,NA,,7,20
+128,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,8/1/2018 0:15,,1,NA,Custom,NA,16
+129,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:15,Dark,1,NA,,NA,8
+130,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,8/1/2018 0:15,,1,NA,Custom,NA,8
+131,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:15,,1,NA,Custom,NA,8
+132,1caf640d9d16265cb7281cc7ccf8ab55,Create Data Source,8/1/2018 0:15,,1,NA,,NA,8
+133,1fb0c38e91eb39efd7740c35b063fcaa,Graph Editor,8/1/2018 0:16,,1,NA,Custom,NA,8
+134,1fb0c38e91eb39efd7740c35b063fcaa,View Dashboard,8/1/2018 0:16,Light,1,NA,,NA,8
+135,1caf640d9d16265cb7281cc7ccf8ab55,Data Source Connector,8/1/2018 0:16,,1,NA,,NA,8
+136,1fb0c38e91eb39efd7740c35b063fcaa,Add Button,8/1/2018 0:16,,1,NA,,NA,8
+137,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,8/1/2018 0:16,,1,NA,Custom,NA,16
+138,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:16,Dark,1,NA,,NA,8
+139,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,8/1/2018 0:16,,1,NA,Custom,NA,8
+140,1fb0c38e91eb39efd7740c35b063fcaa,Graph Gallery,8/1/2018 0:16,,1,NA,,NA,8
+141,42a6e310d0fb4cbd4c35755fd0c71564,View Dashboard,8/1/2018 0:16,Light,1,NA,,NA,8
+142,1fb0c38e91eb39efd7740c35b063fcaa,Graph Gallery,8/1/2018 0:16,,1,NA,,NA,8
+143,1fb0c38e91eb39efd7740c35b063fcaa,Graph Gallery,8/1/2018 0:16,,1,NA,,NA,8
+144,42a6e310d0fb4cbd4c35755fd0c71564,Add Button,8/1/2018 0:16,,1,NA,,NA,8
+145,42a6e310d0fb4cbd4c35755fd0c71564,Build a New Graph Button,8/1/2018 0:16,,1,NA,,NA,8
+146,1fb0c38e91eb39efd7740c35b063fcaa,Template Connect Button,8/1/2018 0:16,,1,NA,,NA,8
+147,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,8/1/2018 0:16,,1,NA,Custom,NA,8
+148,1fb0c38e91eb39efd7740c35b063fcaa,Template Connected,8/1/2018 0:16,,1,NA,,NA,8
+149,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,8/1/2018 0:16,,1,NA,Custom,NA,8
+150,1fb0c38e91eb39efd7740c35b063fcaa,Edit Graph from Dashboard,8/1/2018 0:16,,1,NA,Template,NA,8
+151,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:16,,1,NA,Custom,NA,8
+152,1fb0c38e91eb39efd7740c35b063fcaa,Graph Editor,8/1/2018 0:16,,1,NA,Template,NA,8
+153,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,8/1/2018 0:17,,1,NA,Custom,NA,8
+154,42a6e310d0fb4cbd4c35755fd0c71564,View Dashboard,8/1/2018 0:17,Light,1,NA,,NA,8
+155,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,8/1/2018 0:17,,1,NA,Custom,NA,16
+156,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:17,Dark,1,NA,,NA,8
+157,7c790b8a1f04c66bc092b3957816d4dd,Orientation Switch,8/1/2018 0:17,,90,NA,,NA,0
+158,42a6e310d0fb4cbd4c35755fd0c71564,Add Button,8/1/2018 0:17,,1,NA,,NA,8
+159,42a6e310d0fb4cbd4c35755fd0c71564,Build a New Graph Button,8/1/2018 0:17,,1,NA,,NA,8
+160,7c790b8a1f04c66bc092b3957816d4dd,Orientation Switch,8/1/2018 0:17,,90,NA,,NA,0
+161,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,8/1/2018 0:17,,1,NA,Custom,NA,8
+162,1fb0c38e91eb39efd7740c35b063fcaa,Graph Saved in Editor,8/1/2018 0:17,,1,NA,Template,NA,10
+163,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,8/1/2018 0:17,,1,NA,Custom,NA,8
+164,1fb0c38e91eb39efd7740c35b063fcaa,View Dashboard,8/1/2018 0:17,Light,1,NA,,NA,8
+165,42a6e310d0fb4cbd4c35755fd0c71564,View Dashboard,8/1/2018 0:17,Light,1,NA,,NA,8
+166,6b5ab83f529f0cc2c78f1e34b14cc099,View Dashboard,8/1/2018 0:17,Light,1,NA,,NA,8
+167,42a6e310d0fb4cbd4c35755fd0c71564,Add Button,8/1/2018 0:17,,1,NA,,NA,8
+168,42a6e310d0fb4cbd4c35755fd0c71564,Graph Added to Dashboard,8/1/2018 0:18,,1,NA,,NA,8
+169,42a6e310d0fb4cbd4c35755fd0c71564,Graph Added to Dashboard,8/1/2018 0:18,,1,NA,,NA,8
+170,de1712b15e53d2017cf1be927de6b010,View Dashboard,8/1/2018 0:18,Light,1,NA,,NA,8
+171,1b8538e2a12dbd7257fd059867bac72d,View Dashboard,8/1/2018 0:18,Light,1,NA,,NA,21
+172,42a6e310d0fb4cbd4c35755fd0c71564,Edit Graph from Dashboard,8/1/2018 0:18,,1,NA,Custom,NA,8
+173,1b8538e2a12dbd7257fd059867bac72d,Orientation Switch,8/1/2018 0:18,,1,NA,,NA,21
+174,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,8/1/2018 0:18,,1,NA,Custom,NA,8
+175,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,8/1/2018 0:19,,1,NA,Custom,NA,8
+176,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:19,,1,NA,Custom,NA,8
+177,de1712b15e53d2017cf1be927de6b010,Trial Sign Up Completed,8/1/2018 0:19,,1,NA,,NA,8
+178,42a6e310d0fb4cbd4c35755fd0c71564,Graph Saved in Editor,8/1/2018 0:19,,1,NA,Custom,NA,11
+179,42a6e310d0fb4cbd4c35755fd0c71564,View Dashboard,8/1/2018 0:19,Light,1,NA,,NA,8
+180,1732beab1667c7fb06fac4006908848d,View Dashboard,8/1/2018 0:19,Light,28,NA,,NA,0
+181,1732beab1667c7fb06fac4006908848d,Manual Refresh,8/1/2018 0:19,,28,NA,,NA,0
+182,42a6e310d0fb4cbd4c35755fd0c71564,Edit Graph from Dashboard,8/1/2018 0:19,,1,NA,Custom,NA,8
+183,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,8/1/2018 0:19,,1,NA,Custom,NA,8
+184,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,8/1/2018 0:20,,1,NA,Custom,NA,8
+185,42a6e310d0fb4cbd4c35755fd0c71564,View Dashboard,8/1/2018 0:20,Light,1,NA,,NA,8
+186,1732beab1667c7fb06fac4006908848d,Show More Graphs,8/1/2018 0:20,,28,NA,,7,0
+187,42a6e310d0fb4cbd4c35755fd0c71564,Add Button,8/1/2018 0:20,,1,NA,,NA,8
+188,42a6e310d0fb4cbd4c35755fd0c71564,Graph Added to Dashboard,8/1/2018 0:20,,1,NA,,NA,8
+189,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,8/1/2018 0:20,,1,NA,Custom,NA,16
+190,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:20,Dark,1,NA,,NA,8
+191,b59765e61d5b18c3e123aa822e9e400e,View Dashboard,8/1/2018 0:20,Dark,1,NA,,NA,12
+192,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,8/1/2018 0:20,,1,NA,Custom,NA,8
+193,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:20,,1,NA,Custom,NA,8
+194,42a6e310d0fb4cbd4c35755fd0c71564,Add Button,8/1/2018 0:20,,1,NA,,NA,8
+195,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,8/1/2018 0:20,,1,NA,Custom,NA,16
+196,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:21,Dark,1,NA,,NA,8
+197,42a6e310d0fb4cbd4c35755fd0c71564,Graph Added to Dashboard,8/1/2018 0:21,,1,NA,,NA,8
+198,75163e6646c5efebcbdc787b8d98e09b,View Dashboard,8/1/2018 0:21,Light,1,NA,,NA,8
+199,42a6e310d0fb4cbd4c35755fd0c71564,Edit Graph from Dashboard,8/1/2018 0:21,,1,NA,Custom,NA,8
+200,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,8/1/2018 0:21,,1,NA,Custom,NA,8
+201,e7f92edd633a8500a3c6408ff98b1b1a,View Dashboard,8/1/2018 0:21,Light,1,NA,,NA,8
+202,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,8/1/2018 0:21,,1,NA,Custom,NA,8
+203,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:21,,1,NA,Custom,NA,8
+204,7989d44de16087d458d839e2dfbd60b0,View Dashboard,8/1/2018 0:21,Light,1,NA,,NA,15
+205,7989d44de16087d458d839e2dfbd60b0,Build Graph from Library,8/1/2018 0:21,,1,NA,,NA,15
+206,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,8/1/2018 0:21,,1,NA,Custom,NA,16
+207,7989d44de16087d458d839e2dfbd60b0,Graph Editor,8/1/2018 0:21,,1,NA,Custom,NA,15
+208,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:21,Light,1,NA,,NA,8
+209,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,8/1/2018 0:22,,1,NA,Custom,NA,8
+210,75163e6646c5efebcbdc787b8d98e09b,Trial Sign Up Completed,8/1/2018 0:22,,1,NA,,NA,8
+211,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:22,,1,NA,Custom,NA,8
+212,7989d44de16087d458d839e2dfbd60b0,Create Data Source,8/1/2018 0:22,,1,NA,,NA,15
+213,e7f92edd633a8500a3c6408ff98b1b1a,Trial Sign Up Completed,8/1/2018 0:22,,1,NA,,NA,8
+214,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,8/1/2018 0:22,,1,NA,Custom,NA,16
+215,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:22,Light,1,NA,,NA,8
+216,7989d44de16087d458d839e2dfbd60b0,Formula Editor Insert,8/1/2018 0:22,,1,NA,,NA,15
+217,e7f92edd633a8500a3c6408ff98b1b1a,View Dashboard,8/1/2018 0:22,Light,1,NA,,NA,8
+218,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,8/1/2018 0:22,,1,NA,Custom,NA,8
+219,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:22,,1,NA,Custom,NA,8
+220,ea0a1aa5119972fc3c8b79db33fcc37b,View Dashboard,8/1/2018 0:23,Light,2,NA,,NA,60
+221,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,8/1/2018 0:23,,1,NA,Custom,NA,16
+222,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:23,Light,1,NA,,NA,8
+223,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,8/1/2018 0:23,,1,NA,Custom,NA,8
+224,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:23,,1,NA,Custom,NA,8
+225,bb44ea9a534e3f0e0b6a723cf87eba42,Orientation Switch,8/1/2018 0:23,,69,NA,,NA,0
+226,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,8/1/2018 0:23,,1,NA,Custom,NA,16
+227,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:23,Light,1,NA,,NA,8
+228,75163e6646c5efebcbdc787b8d98e09b,View Dashboard,8/1/2018 0:23,Light,1,NA,,NA,8
+229,75163e6646c5efebcbdc787b8d98e09b,View Dashboard,8/1/2018 0:24,Light,1,NA,,NA,8
+230,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,8/1/2018 0:24,,1,NA,Custom,NA,8
+231,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:24,,1,NA,Custom,NA,8
+232,75163e6646c5efebcbdc787b8d98e09b,View Dashboard,8/1/2018 0:24,Light,1,NA,,NA,8
+233,e421d69ced85ac1f4f1f89d41aa09c36,View Dashboard,8/1/2018 0:24,Light,1,NA,,NA,51
+234,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,8/1/2018 0:24,,1,NA,Custom,NA,16
+235,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:24,Light,1,NA,,NA,8
+236,2a3c721d40a0b403125991ca1cf77a28,View Dashboard,8/1/2018 0:24,Light,32,NA,,NA,0
+237,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,8/1/2018 0:24,,1,NA,Custom,NA,8
+238,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:24,,1,NA,Custom,NA,8
+239,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,8/1/2018 0:24,,1,NA,Custom,NA,16
+240,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:24,Light,1,NA,,NA,8
+241,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,8/1/2018 0:24,,1,NA,Custom,NA,8
+242,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:24,,1,NA,Custom,NA,8
+243,296411f5ce302103d499ca4656fb8c71,View Dashboard,8/1/2018 0:25,Light,1,NA,,NA,8
+244,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,8/1/2018 0:25,,1,NA,Custom,NA,16
+245,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:25,Light,1,NA,,NA,8
+246,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,8/1/2018 0:25,,1,NA,Custom,NA,8
+247,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:25,,1,NA,Custom,NA,8
+248,e7f92edd633a8500a3c6408ff98b1b1a,View Dashboard,8/1/2018 0:25,Light,1,NA,,NA,8
+249,f9375b795735486891aae3367d0adc7b,View Dashboard,8/1/2018 0:25,Light,11,NA,,NA,0
+250,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,8/1/2018 0:25,,1,NA,Custom,NA,16
+251,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:25,Light,1,NA,,NA,8
+252,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,8/1/2018 0:25,,1,NA,Custom,NA,8
+253,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:25,,1,NA,Custom,NA,8
+254,b97660aeb4f82feb6e0b19d8d9eb607f,View Dashboard,8/1/2018 0:26,Light,1,NA,,NA,8
+255,e3b55cc4dbf2c5bd84af7f04eee4064e,View Dashboard,8/1/2018 0:27,Light,49,NA,,NA,0
+256,e3b55cc4dbf2c5bd84af7f04eee4064e,Tab Switched,8/1/2018 0:27,,49,NA,,NA,0
+257,763bf501a2bf11277ac40a2b230f0c34,View Dashboard,8/1/2018 0:27,Light,4,NA,,NA,0
+258,e3b55cc4dbf2c5bd84af7f04eee4064e,Tab Switched,8/1/2018 0:27,,49,NA,,NA,0
+259,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,8/1/2018 0:28,,1,NA,Custom,NA,16
+260,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:28,Light,1,NA,,NA,8
+261,42a6e310d0fb4cbd4c35755fd0c71564,Graph Saved in Editor,8/1/2018 0:28,,1,NA,Custom,NA,11
+262,42a6e310d0fb4cbd4c35755fd0c71564,View Dashboard,8/1/2018 0:28,Light,1,NA,,NA,8
+263,42a6e310d0fb4cbd4c35755fd0c71564,Add Button,8/1/2018 0:28,,1,NA,,NA,8
+264,42a6e310d0fb4cbd4c35755fd0c71564,Build a New Graph Button,8/1/2018 0:28,,1,NA,,NA,8
+265,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,8/1/2018 0:28,,1,NA,Custom,NA,8
+266,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,8/1/2018 0:29,,1,NA,Custom,NA,8
+267,42a6e310d0fb4cbd4c35755fd0c71564,View Dashboard,8/1/2018 0:29,Light,1,NA,,NA,8
+268,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,8/1/2018 0:29,,1,NA,Custom,NA,8
+269,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:29,,1,NA,Custom,NA,8
+270,f217c8a4e6e2c34f758f0dfe4ebb996d,View Dashboard,8/1/2018 0:29,Light,68,NA,,NA,0
+271,51b809b091fc0f51dc7aca9ddc486bfe,Sidebar Help,8/1/2018 0:29,,1,NA,,NA,8
+272,42a6e310d0fb4cbd4c35755fd0c71564,Edit Graph from Dashboard,8/1/2018 0:29,,1,NA,Custom,NA,8
+273,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,8/1/2018 0:29,,1,NA,Custom,NA,8
+274,42a6e310d0fb4cbd4c35755fd0c71564,Sidebar Help,8/1/2018 0:29,,1,NA,,NA,8
+275,42a6e310d0fb4cbd4c35755fd0c71564,Graph Saved in Editor,8/1/2018 0:30,,1,NA,Custom,NA,11
+276,42a6e310d0fb4cbd4c35755fd0c71564,View Dashboard,8/1/2018 0:30,Light,1,NA,,NA,8
+277,1b8538e2a12dbd7257fd059867bac72d,Orientation Switch,8/1/2018 0:30,,1,NA,,NA,21
+278,42a6e310d0fb4cbd4c35755fd0c71564,Add Button,8/1/2018 0:30,,1,NA,,NA,8
+279,42a6e310d0fb4cbd4c35755fd0c71564,Build a New Graph Button,8/1/2018 0:30,,1,NA,,NA,8
+280,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,8/1/2018 0:30,,1,NA,Custom,NA,8
+281,c4c21250e42fdcee13947a7c50b15b98,View Dashboard,8/1/2018 0:31,Light,3,NA,,NA,116
+282,c4c21250e42fdcee13947a7c50b15b98,Manual Refresh,8/1/2018 0:31,,3,NA,,NA,116
+283,c4c21250e42fdcee13947a7c50b15b98,Show More Graphs,8/1/2018 0:31,,3,NA,,10,116
+284,c8499f7e9da7d144850770d6d6d681ad,View Dashboard,8/1/2018 0:32,Light,1,NA,,NA,8
+285,7989d44de16087d458d839e2dfbd60b0,Create Data Source,8/1/2018 0:32,,1,NA,,NA,15
+286,e3b55cc4dbf2c5bd84af7f04eee4064e,View Dashboard,8/1/2018 0:32,Light,49,NA,,NA,0
+287,7989d44de16087d458d839e2dfbd60b0,Data Source Connector,8/1/2018 0:32,,1,NA,,NA,15
+288,e421d69ced85ac1f4f1f89d41aa09c36,View Dashboard,8/1/2018 0:32,Light,1,NA,,NA,51
+289,e3b55cc4dbf2c5bd84af7f04eee4064e,Tab Switched,8/1/2018 0:32,,49,NA,,NA,0
+290,bb44ea9a534e3f0e0b6a723cf87eba42,Orientation Switch,8/1/2018 0:33,,69,NA,,NA,0
+291,bb44ea9a534e3f0e0b6a723cf87eba42,Orientation Switch,8/1/2018 0:33,,69,NA,,NA,0
+292,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,8/1/2018 0:33,,1,NA,Custom,NA,16
+293,bb44ea9a534e3f0e0b6a723cf87eba42,Orientation Switch,8/1/2018 0:33,,69,NA,,NA,0
+294,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:33,Light,1,NA,,NA,8
+295,51b809b091fc0f51dc7aca9ddc486bfe,Build Graph from Library,8/1/2018 0:33,,1,NA,,NA,16
+296,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:33,,1,NA,Custom,NA,8
+297,42a6e310d0fb4cbd4c35755fd0c71564,Graph Saved in Editor,8/1/2018 0:33,,1,NA,Custom,NA,11
+298,e3b55cc4dbf2c5bd84af7f04eee4064e,View Dashboard,8/1/2018 0:34,Light,49,NA,,NA,0
+299,42a6e310d0fb4cbd4c35755fd0c71564,View Dashboard,8/1/2018 0:34,Light,1,NA,,NA,8
+300,42a6e310d0fb4cbd4c35755fd0c71564,Edit Graph from Dashboard,8/1/2018 0:34,,1,NA,Custom,NA,8
+301,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,8/1/2018 0:34,,1,NA,Custom,NA,8
+302,7989d44de16087d458d839e2dfbd60b0,Graph Editor,8/1/2018 0:34,,1,NA,Custom,NA,15
+303,7989d44de16087d458d839e2dfbd60b0,Create Data Source,8/1/2018 0:35,,1,NA,,NA,15
+304,7989d44de16087d458d839e2dfbd60b0,Data Source Connector,8/1/2018 0:35,,1,NA,,NA,15
+305,7989d44de16087d458d839e2dfbd60b0,Data Source Created,8/1/2018 0:35,,1,NA,,NA,15
+306,938922ddb1a818ff3b39b8178ba9a3a1,View Dashboard,8/1/2018 0:35,Light,13,NA,,NA,0
+307,7989d44de16087d458d839e2dfbd60b0,Build Graph from Library,8/1/2018 0:35,,1,NA,,NA,15
+308,7989d44de16087d458d839e2dfbd60b0,Graph Editor,8/1/2018 0:35,,1,NA,Custom,NA,15
+309,cdf4bb66fd746c576b981d82b0348433,View Dashboard,8/1/2018 0:35,Light,100,NA,,NA,0
+310,cdf4bb66fd746c576b981d82b0348433,Orientation Switch,8/1/2018 0:35,,100,NA,,NA,0
+311,f58458f96ff402c5c463c306532ecd1b,View Dashboard,8/1/2018 0:36,Light,5,NA,,NA,43
+312,938922ddb1a818ff3b39b8178ba9a3a1,Manual Refresh,8/1/2018 0:36,,13,NA,,NA,0
+313,cdf4bb66fd746c576b981d82b0348433,Orientation Switch,8/1/2018 0:36,,100,NA,,NA,0
+314,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,8/1/2018 0:36,,1,NA,Custom,NA,16
+315,938922ddb1a818ff3b39b8178ba9a3a1,View Dashboard,8/1/2018 0:36,Light,13,NA,,NA,0
+316,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:36,Light,1,NA,,NA,8
+317,43aa58feadb3981f8ad67d47f5416790,View Dashboard,8/1/2018 0:36,Light,1,NA,,NA,12
+318,f58458f96ff402c5c463c306532ecd1b,Tab Switched,8/1/2018 0:37,,5,NA,,NA,43
+319,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:37,Light,1,NA,,NA,8
+320,bb44ea9a534e3f0e0b6a723cf87eba42,Orientation Switch,8/1/2018 0:37,,69,NA,,NA,0
+321,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,8/1/2018 0:37,,1,NA,Custom,NA,8
+322,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:37,,1,NA,Custom,NA,8
+323,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,8/1/2018 0:37,,1,NA,Custom,NA,17
+324,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:37,Light,1,NA,,NA,8
+325,7989d44de16087d458d839e2dfbd60b0,Formula Editor Insert,8/1/2018 0:37,,1,NA,,NA,15
+326,42a6e310d0fb4cbd4c35755fd0c71564,Graph Saved in Editor,8/1/2018 0:38,,1,NA,Custom,NA,12
+327,42a6e310d0fb4cbd4c35755fd0c71564,View Dashboard,8/1/2018 0:38,Light,1,NA,,NA,8
+328,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:38,Light,1,NA,,NA,8
+329,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,8/1/2018 0:38,,1,NA,Custom,NA,1
+330,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:38,Light,1,NA,,NA,8
+331,d3a3f99b312aecb7ea7fdb88817ddbc4,View Dashboard,8/1/2018 0:38,Light,118,NA,,NA,0
+332,ea0a1aa5119972fc3c8b79db33fcc37b,View Dashboard,8/1/2018 0:38,Light,2,NA,,NA,60
+333,51b809b091fc0f51dc7aca9ddc486bfe,Add Button,8/1/2018 0:38,,1,NA,,NA,8
+334,51b809b091fc0f51dc7aca9ddc486bfe,Graph Added to Dashboard,8/1/2018 0:39,,1,NA,,NA,8
+335,e8b0f503c5720f3c305f37871c4fef40,Graph Saved in Editor,8/1/2018 0:39,,1,NA,Custom,NA,6
+336,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,8/1/2018 0:39,Dark,1,NA,,NA,1
+337,e8b0f503c5720f3c305f37871c4fef40,Edit Graph from Dashboard,8/1/2018 0:39,,1,NA,Custom,NA,1
+338,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,8/1/2018 0:39,,1,NA,Custom,NA,1
+339,d3a3f99b312aecb7ea7fdb88817ddbc4,Show More Graphs,8/1/2018 0:39,,118,NA,,8,0
+340,e8b0f503c5720f3c305f37871c4fef40,Graph Saved in Editor,8/1/2018 0:40,,1,NA,Custom,NA,6
+341,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,8/1/2018 0:40,Dark,1,NA,,NA,1
+342,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,8/1/2018 0:40,,1,NA,Custom,NA,8
+343,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:40,,1,NA,Custom,NA,8
+344,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,8/1/2018 0:40,,1,NA,Custom,NA,17
+345,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:40,Dark,1,NA,,NA,8
+346,42a6e310d0fb4cbd4c35755fd0c71564,Add Button,8/1/2018 0:40,,1,NA,,NA,8
+347,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,8/1/2018 0:41,,1,NA,Custom,NA,1
+348,e8b0f503c5720f3c305f37871c4fef40,Graph Saved in Editor,8/1/2018 0:41,,1,NA,Custom,NA,6
+349,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,8/1/2018 0:41,Dark,1,NA,,NA,1
+350,42a6e310d0fb4cbd4c35755fd0c71564,Build a New Graph Button,8/1/2018 0:41,,1,NA,,NA,8
+351,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,8/1/2018 0:41,,1,NA,Custom,NA,8
+352,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,8/1/2018 0:42,,1,NA,Custom,NA,8
+353,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:42,,1,NA,Custom,NA,8
+354,e8b0f503c5720f3c305f37871c4fef40,Edit Graph from Dashboard,8/1/2018 0:42,,1,NA,Custom,NA,1
+355,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,8/1/2018 0:42,,1,NA,Custom,NA,1
+356,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,8/1/2018 0:42,,1,NA,Custom,NA,17
+357,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,8/1/2018 0:42,,1,NA,Custom,NA,8
+358,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:42,Dark,1,NA,,NA,8
+359,42a6e310d0fb4cbd4c35755fd0c71564,View Dashboard,8/1/2018 0:42,Light,1,NA,,NA,8
+360,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,8/1/2018 0:43,,1,NA,Custom,NA,8
+361,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:43,,1,NA,Custom,NA,8
+362,7989d44de16087d458d839e2dfbd60b0,Graph Editor,8/1/2018 0:43,,1,NA,Custom,NA,15
+363,7989d44de16087d458d839e2dfbd60b0,Build Graph from Library,8/1/2018 0:43,,1,NA,,NA,15
+364,7989d44de16087d458d839e2dfbd60b0,Graph Editor,8/1/2018 0:44,,1,NA,Custom,NA,15
+365,f9375b795735486891aae3367d0adc7b,View Dashboard,8/1/2018 0:44,Light,11,NA,,NA,0
+366,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,8/1/2018 0:44,,1,NA,Custom,NA,17
+367,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:44,Dark,1,NA,,NA,8
+368,f9375b795735486891aae3367d0adc7b,Tab Switched,8/1/2018 0:44,,11,NA,,NA,0
+369,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,8/1/2018 0:44,,1,NA,Custom,NA,8
+370,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:44,,1,NA,Custom,NA,8
+371,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,8/1/2018 0:44,,1,NA,Custom,NA,17
+372,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:44,Dark,1,NA,,NA,8
+373,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,8/1/2018 0:44,,1,NA,Custom,NA,8
+374,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:44,,1,NA,Custom,NA,8
+375,e8b0f503c5720f3c305f37871c4fef40,Graph Saved in Editor,8/1/2018 0:44,,1,NA,Custom,NA,6
+376,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,8/1/2018 0:45,,1,NA,Custom,NA,17
+377,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:45,Dark,1,NA,,NA,8
+378,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,8/1/2018 0:45,Dark,1,NA,,NA,1
+379,f58458f96ff402c5c463c306532ecd1b,View Dashboard,8/1/2018 0:45,Light,5,NA,,NA,43
+380,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,8/1/2018 0:45,,1,NA,Custom,NA,8
+381,054258eac6822185e00d0e85ebdb2600,View Dashboard,8/1/2018 0:45,Light,9,NA,,NA,0
+382,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:45,,1,NA,Custom,NA,8
+383,42a6e310d0fb4cbd4c35755fd0c71564,View Dashboard,8/1/2018 0:45,Light,1,NA,,NA,8
+384,42a6e310d0fb4cbd4c35755fd0c71564,Edit Graph from Dashboard,8/1/2018 0:45,,1,NA,Custom,NA,8
+385,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,8/1/2018 0:46,,1,NA,Custom,NA,8
+386,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:46,,1,NA,Custom,NA,8
+387,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:46,Dark,1,NA,,NA,8
+388,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,8/1/2018 0:46,,1,NA,Custom,NA,8
+389,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:46,,1,NA,Custom,NA,8
+390,f9375b795735486891aae3367d0adc7b,Tab Switched,8/1/2018 0:46,,11,NA,,NA,0
+391,b8610d38ddca3692d34a55594e0b4df5,View Dashboard,8/1/2018 0:46,Light,1,NA,,NA,50
+392,b8610d38ddca3692d34a55594e0b4df5,Add Existing Tab,8/1/2018 0:46,,1,NA,,NA,50
+393,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,8/1/2018 0:46,,1,NA,Custom,NA,17
+394,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:46,Dark,1,NA,,NA,8
+395,b8610d38ddca3692d34a55594e0b4df5,Tab Switched,8/1/2018 0:46,,1,NA,,NA,50
+396,813eb4f19558e06d8c6dd73caa1ea52b,View Dashboard,8/1/2018 0:46,Light,3,NA,,NA,0
+397,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,8/1/2018 0:46,,1,NA,Custom,NA,8
+398,42a6e310d0fb4cbd4c35755fd0c71564,View Dashboard,8/1/2018 0:46,Light,1,NA,,NA,8
+399,42a6e310d0fb4cbd4c35755fd0c71564,Add Button,8/1/2018 0:46,,1,NA,,NA,8
+400,42a6e310d0fb4cbd4c35755fd0c71564,Build a New Graph Button,8/1/2018 0:46,,1,NA,,NA,8
+401,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,8/1/2018 0:46,,1,NA,Custom,NA,8
+402,f9375b795735486891aae3367d0adc7b,Orientation Switch,8/1/2018 0:46,,11,NA,,NA,0
+403,e8b0f503c5720f3c305f37871c4fef40,Edit Graph from Dashboard,8/1/2018 0:47,,1,NA,Custom,NA,1
+404,b8610d38ddca3692d34a55594e0b4df5,Tab Switched,8/1/2018 0:47,,1,NA,,NA,50
+405,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,8/1/2018 0:47,,1,NA,Custom,NA,1
+406,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,8/1/2018 0:47,,1,NA,Custom,NA,8
+407,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:47,,1,NA,Custom,NA,8
+408,f9375b795735486891aae3367d0adc7b,Orientation Switch,8/1/2018 0:47,,11,NA,,NA,0
+409,b8610d38ddca3692d34a55594e0b4df5,Tab Switched,8/1/2018 0:47,,1,NA,,NA,50
+410,f9375b795735486891aae3367d0adc7b,View Dashboard,8/1/2018 0:47,Light,11,NA,,NA,0
+411,f9375b795735486891aae3367d0adc7b,Orientation Switch,8/1/2018 0:47,,11,NA,,NA,0
+412,b8610d38ddca3692d34a55594e0b4df5,Orientation Switch,8/1/2018 0:47,,1,NA,,NA,50
+413,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,8/1/2018 0:48,,1,NA,Custom,NA,17
+414,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:48,Dark,1,NA,,NA,8
+415,8bd1b26dffb5986dc6c7cecd2c71a6a8,View Dashboard,8/1/2018 0:48,Dark,3,NA,,NA,25
+416,717205a57e88e2a243a553582ed1e060,View Dashboard,8/1/2018 0:48,Light,70,NA,,NA,0
+417,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,8/1/2018 0:48,,1,NA,Custom,NA,8
+418,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:48,,1,NA,Custom,NA,8
+419,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,8/1/2018 0:49,,1,NA,Custom,NA,17
+420,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:49,Dark,1,NA,,NA,8
+421,b8610d38ddca3692d34a55594e0b4df5,Tab Switched,8/1/2018 0:49,,1,NA,,NA,50
+422,b8610d38ddca3692d34a55594e0b4df5,Tab Switched,8/1/2018 0:49,,1,NA,,NA,50
+423,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,8/1/2018 0:50,,1,NA,Custom,NA,8
+424,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:50,,1,NA,Custom,NA,8
+425,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,8/1/2018 0:50,,1,NA,Custom,NA,17
+426,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:50,Dark,1,NA,,NA,8
+427,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,8/1/2018 0:50,,1,NA,Custom,NA,8
+428,197c731783a51319754597fea6c43112,Orientation Switch,8/1/2018 0:50,,112,NA,,NA,0
+429,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:50,,1,NA,Custom,NA,8
+430,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,8/1/2018 0:50,,1,NA,Custom,NA,17
+431,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:50,Dark,1,NA,,NA,8
+432,e8b0f503c5720f3c305f37871c4fef40,Graph Saved in Editor,8/1/2018 0:50,,1,NA,Custom,NA,6
+433,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,8/1/2018 0:50,Dark,1,NA,,NA,1
+434,6c5941a5643cbcc803d42298adec6661,View Dashboard,8/1/2018 0:50,Light,41,NA,,NA,0
+435,e8b0f503c5720f3c305f37871c4fef40,Edit Graph from Dashboard,8/1/2018 0:50,,1,NA,Custom,NA,1
+436,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,8/1/2018 0:50,,1,NA,Custom,NA,1
+437,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,8/1/2018 0:51,,1,NA,Custom,NA,8
+438,b8610d38ddca3692d34a55594e0b4df5,Orientation Switch,8/1/2018 0:51,,1,NA,,NA,50
+439,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:51,,1,NA,Custom,NA,8
+440,b8610d38ddca3692d34a55594e0b4df5,View Dashboard,8/1/2018 0:51,Light,1,NA,,NA,50
+441,b8610d38ddca3692d34a55594e0b4df5,Orientation Switch,8/1/2018 0:51,,1,NA,,NA,50
+442,e8b0f503c5720f3c305f37871c4fef40,Graph Saved in Editor,8/1/2018 0:51,,1,NA,Custom,NA,6
+443,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,8/1/2018 0:51,Dark,1,NA,,NA,1
+444,e8b0f503c5720f3c305f37871c4fef40,Edit Graph from Dashboard,8/1/2018 0:51,,1,NA,Custom,NA,1
+445,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,8/1/2018 0:51,,1,NA,Custom,NA,1
+446,e8b0f503c5720f3c305f37871c4fef40,Graph Saved in Editor,8/1/2018 0:52,,1,NA,Custom,NA,6
+447,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,8/1/2018 0:52,Dark,1,NA,,NA,1
+448,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,8/1/2018 0:52,,1,NA,Custom,NA,17
+449,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:52,Dark,1,NA,,NA,8
+450,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,8/1/2018 0:52,,1,NA,Custom,NA,8
+451,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:52,,1,NA,Custom,NA,8
+452,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,8/1/2018 0:52,,1,NA,Custom,NA,17
+453,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:52,Dark,1,NA,,NA,8
+454,197c731783a51319754597fea6c43112,Orientation Switch,8/1/2018 0:52,,112,NA,,NA,0
+455,b8610d38ddca3692d34a55594e0b4df5,Tab Switched,8/1/2018 0:52,,1,NA,,NA,50
+456,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,8/1/2018 0:53,,1,NA,Custom,NA,8
+457,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:53,,1,NA,Custom,NA,8
+458,42a6e310d0fb4cbd4c35755fd0c71564,Graph Saved in Editor,8/1/2018 0:53,,1,NA,Custom,NA,12
+459,42a6e310d0fb4cbd4c35755fd0c71564,View Dashboard,8/1/2018 0:53,Light,1,NA,,NA,8
+460,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,8/1/2018 0:53,,1,NA,Custom,NA,17
+461,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:53,Dark,1,NA,,NA,8
+462,f217c8a4e6e2c34f758f0dfe4ebb996d,View Dashboard,8/1/2018 0:54,Light,68,NA,,NA,0
+463,d96cf694dc904841288eb48c58d05d72,Orientation Switch,8/1/2018 0:54,,3,NA,,NA,29
+464,d96cf694dc904841288eb48c58d05d72,View Dashboard,8/1/2018 0:54,Light,3,NA,,NA,29
+465,5d07cb7798127b003f253edcf24550ae,View Dashboard,8/1/2018 0:54,Light,1,NA,,NA,8
+466,5d07cb7798127b003f253edcf24550ae,Trial Sign Up Completed,8/1/2018 0:55,,1,NA,,NA,8
+467,5d07cb7798127b003f253edcf24550ae,Guide Start,8/1/2018 0:55,,1,NA,,NA,8
+468,5d07cb7798127b003f253edcf24550ae,View Dashboard,8/1/2018 0:55,Light,1,NA,,NA,8
+469,5d07cb7798127b003f253edcf24550ae,Guide Start,8/1/2018 0:55,,1,NA,,NA,8
+470,51b809b091fc0f51dc7aca9ddc486bfe,Edit Graph from Dashboard,8/1/2018 0:55,,1,NA,Custom,NA,8
+471,5d07cb7798127b003f253edcf24550ae,Guide Exit,8/1/2018 0:55,,1,NA,,NA,8
+472,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 0:55,,1,NA,Custom,NA,8
+473,5d07cb7798127b003f253edcf24550ae,Guide Start,8/1/2018 0:55,,1,NA,,NA,8
+474,5d07cb7798127b003f253edcf24550ae,Guide Exit,8/1/2018 0:55,,1,NA,,NA,8
+475,5d07cb7798127b003f253edcf24550ae,Guide Start,8/1/2018 0:55,,1,NA,,NA,8
+476,5d07cb7798127b003f253edcf24550ae,Add Blank Tab,8/1/2018 0:55,,1,NA,,NA,8
+477,5d07cb7798127b003f253edcf24550ae,Add Button,8/1/2018 0:55,,1,NA,,NA,8
+478,5d07cb7798127b003f253edcf24550ae,Guide Exit,8/1/2018 0:55,,1,NA,,NA,8
+479,5d07cb7798127b003f253edcf24550ae,Guide Start,8/1/2018 0:55,,1,NA,,NA,8
+480,5d07cb7798127b003f253edcf24550ae,Build a New Graph Button,8/1/2018 0:55,,1,NA,,NA,8
+481,5d07cb7798127b003f253edcf24550ae,Guide Exit,8/1/2018 0:55,,1,NA,,NA,8
+482,5d07cb7798127b003f253edcf24550ae,Graph Editor,8/1/2018 0:55,,1,NA,Custom,NA,8
+483,5d07cb7798127b003f253edcf24550ae,Guide Start,8/1/2018 0:55,,1,NA,,NA,8
+484,51b809b091fc0f51dc7aca9ddc486bfe,Graph Saved in Editor,8/1/2018 0:55,,1,NA,Custom,NA,17
+485,51b809b091fc0f51dc7aca9ddc486bfe,View Dashboard,8/1/2018 0:55,Dark,1,NA,,NA,8
+486,938922ddb1a818ff3b39b8178ba9a3a1,View Dashboard,8/1/2018 0:55,Light,NA,NA,,NA,NA
+487,5d07cb7798127b003f253edcf24550ae,Graph Saved in Editor,8/1/2018 0:56,,1,NA,Custom,NA,8
+488,5d07cb7798127b003f253edcf24550ae,Editor Survey,8/1/2018 0:56,,1,NA,,NA,8
+489,ea0a1aa5119972fc3c8b79db33fcc37b,View Dashboard,8/1/2018 0:56,Light,2,NA,,NA,60
+490,5d07cb7798127b003f253edcf24550ae,View Dashboard,8/1/2018 0:56,Light,1,NA,,NA,8
+491,5d07cb7798127b003f253edcf24550ae,Create Data Source,8/1/2018 0:56,,1,NA,,NA,9
+492,b8610d38ddca3692d34a55594e0b4df5,Orientation Switch,8/1/2018 0:57,,1,NA,,NA,50
+493,b8610d38ddca3692d34a55594e0b4df5,View Dashboard,8/1/2018 0:57,Light,1,NA,,NA,50
+494,51b809b091fc0f51dc7aca9ddc486bfe,Sidebar Help,8/1/2018 0:57,,1,NA,,NA,8
+495,b8610d38ddca3692d34a55594e0b4df5,Tab Switched,8/1/2018 0:57,,1,NA,,NA,50
+496,51b809b091fc0f51dc7aca9ddc486bfe,New Account,8/1/2018 0:57,,1,NA,,NA,8
+497,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,8/1/2018 0:57,,1,NA,Custom,NA,1
+498,7989d44de16087d458d839e2dfbd60b0,Graph Editor,8/1/2018 0:57,,1,NA,Custom,NA,15
+499,e8b0f503c5720f3c305f37871c4fef40,Graph Saved in Editor,8/1/2018 0:57,,1,NA,Custom,NA,6
+500,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,8/1/2018 0:57,Dark,1,NA,,NA,1
+501,e8b0f503c5720f3c305f37871c4fef40,Edit Graph from Dashboard,8/1/2018 0:57,,1,NA,Custom,NA,1
+502,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,8/1/2018 0:57,,1,NA,Custom,NA,1
+503,7989d44de16087d458d839e2dfbd60b0,Build Graph from Library,8/1/2018 0:57,,1,NA,,NA,15
+504,7989d44de16087d458d839e2dfbd60b0,Graph Editor,8/1/2018 0:57,,1,NA,Custom,NA,15
+505,e8b0f503c5720f3c305f37871c4fef40,Graph Saved in Editor,8/1/2018 0:57,,1,NA,Custom,NA,6
+506,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,8/1/2018 0:57,Dark,1,NA,,NA,1
+507,42a6e310d0fb4cbd4c35755fd0c71564,Edit Graph from Dashboard,8/1/2018 0:57,,1,NA,Custom,NA,8
+508,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,8/1/2018 0:57,,1,NA,Custom,NA,8
+509,e8b0f503c5720f3c305f37871c4fef40,Edit Graph from Dashboard,8/1/2018 0:58,,1,NA,Custom,NA,1
+510,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,8/1/2018 0:58,,1,NA,Custom,NA,1
+511,e8b0f503c5720f3c305f37871c4fef40,Graph Saved in Editor,8/1/2018 0:58,,1,NA,Custom,NA,6
+512,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,8/1/2018 0:58,Dark,1,NA,,NA,1
+513,f9375b795735486891aae3367d0adc7b,Orientation Switch,8/1/2018 0:58,,11,NA,,NA,0
+514,f9375b795735486891aae3367d0adc7b,View Dashboard,8/1/2018 0:58,Light,11,NA,,NA,0
+515,f9375b795735486891aae3367d0adc7b,Orientation Switch,8/1/2018 0:58,,11,NA,,NA,0
+516,e8b0f503c5720f3c305f37871c4fef40,Edit Graph from Dashboard,8/1/2018 0:58,,1,NA,Custom,NA,1
+517,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,8/1/2018 0:58,,1,NA,Custom,NA,1
+518,e8b0f503c5720f3c305f37871c4fef40,Graph Saved in Editor,8/1/2018 0:58,,1,NA,Custom,NA,6
+519,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,8/1/2018 0:58,Dark,1,NA,,NA,1
+520,ea0a1aa5119972fc3c8b79db33fcc37b,View Dashboard,8/1/2018 0:58,Light,2,NA,,NA,60
+521,a50d89d33e81f12695ff764f11bc4ab8,View Dashboard,8/1/2018 0:58,Light,1,NA,,NA,12
+522,938922ddb1a818ff3b39b8178ba9a3a1,View Dashboard,8/1/2018 0:58,Light,NA,NA,,NA,NA
+523,cdf4bb66fd746c576b981d82b0348433,View Dashboard,8/1/2018 0:58,Light,100,NA,,NA,0
+524,934b0e42cc4b3ef85f24a49881bd4218,View Dashboard,8/1/2018 0:58,Light,10,NA,,NA,14
+525,cdf4bb66fd746c576b981d82b0348433,Orientation Switch,8/1/2018 0:58,,100,NA,,NA,0
+526,938922ddb1a818ff3b39b8178ba9a3a1,Guide Start,8/1/2018 0:58,,NA,NA,,NA,NA
+527,938922ddb1a818ff3b39b8178ba9a3a1,Guide Exit,8/1/2018 0:59,,NA,NA,,NA,NA
+528,938922ddb1a818ff3b39b8178ba9a3a1,Guide Start,8/1/2018 0:59,,NA,NA,,NA,NA
+529,938922ddb1a818ff3b39b8178ba9a3a1,Add Existing Tab,8/1/2018 0:59,,NA,NA,,NA,NA
+530,cdf4bb66fd746c576b981d82b0348433,View Dashboard,8/1/2018 0:59,Light,100,NA,,NA,0
+531,cdf4bb66fd746c576b981d82b0348433,Orientation Switch,8/1/2018 0:59,,100,NA,,NA,0
+532,cdf4bb66fd746c576b981d82b0348433,Orientation Switch,8/1/2018 0:59,,100,NA,,NA,0
+533,cdf4bb66fd746c576b981d82b0348433,View Dashboard,8/1/2018 0:59,Light,100,NA,,NA,0
+534,cdf4bb66fd746c576b981d82b0348433,Orientation Switch,8/1/2018 1:00,,100,NA,,NA,0
+535,cdf4bb66fd746c576b981d82b0348433,View Dashboard,8/1/2018 1:00,Light,100,NA,,NA,0
+536,cdf4bb66fd746c576b981d82b0348433,Orientation Switch,8/1/2018 1:00,,100,NA,,NA,0
+537,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,8/1/2018 1:00,Dark,1,NA,,NA,1
+538,cdf4bb66fd746c576b981d82b0348433,Orientation Switch,8/1/2018 1:01,,100,NA,,NA,0
+539,e8b0f503c5720f3c305f37871c4fef40,Edit Graph from Dashboard,8/1/2018 1:01,,1,NA,Custom,NA,1
+540,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,8/1/2018 1:01,,1,NA,Custom,NA,1
+541,e8b0f503c5720f3c305f37871c4fef40,Graph Saved in Editor,8/1/2018 1:01,,1,NA,Custom,NA,6
+542,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,8/1/2018 1:01,Dark,1,NA,,NA,1
+543,cdf4bb66fd746c576b981d82b0348433,View Dashboard,8/1/2018 1:01,Light,100,NA,,NA,0
+544,cdf4bb66fd746c576b981d82b0348433,Orientation Switch,8/1/2018 1:02,,100,NA,,NA,0
+545,cdf4bb66fd746c576b981d82b0348433,Orientation Switch,8/1/2018 1:02,,100,NA,,NA,0
+546,7989d44de16087d458d839e2dfbd60b0,Graph Editor,8/1/2018 1:02,,1,NA,Custom,NA,15
+547,7989d44de16087d458d839e2dfbd60b0,Graph Editor,8/1/2018 1:02,,1,NA,Custom,NA,15
+548,e8b0f503c5720f3c305f37871c4fef40,Build Graph from Library,8/1/2018 1:03,,1,NA,,NA,6
+549,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,8/1/2018 1:03,,1,NA,Custom,NA,1
+550,184aa1848d90368f39d1dd4b50632939,View Dashboard,8/1/2018 1:03,Light,4,NA,,NA,0
+551,77757e99eb32bc0977fe1e5865a19791,View Dashboard,8/1/2018 1:03,Light,13,NA,,NA,0
+552,184aa1848d90368f39d1dd4b50632939,Manual Refresh,8/1/2018 1:03,,4,NA,,NA,0
+553,87c2a4a0a608c4d7e46a233e117d8e95,View Dashboard,8/1/2018 1:03,Light,1,NA,,NA,8
+554,184aa1848d90368f39d1dd4b50632939,View Dashboard,8/1/2018 1:04,Light,4,NA,,NA,0
+555,184aa1848d90368f39d1dd4b50632939,Manual Refresh,8/1/2018 1:04,,4,NA,,NA,0
+556,7e0d2c958b4b76211b1e5e3c8294ed22,View Plans,8/1/2018 1:04,,1,NA,,NA,29
+557,7e0d2c958b4b76211b1e5e3c8294ed22,Guide Start,8/1/2018 1:04,,1,NA,,NA,29
+558,184aa1848d90368f39d1dd4b50632939,Show More Graphs,8/1/2018 1:04,,4,NA,,9,0
+559,184aa1848d90368f39d1dd4b50632939,Orientation Switch,8/1/2018 1:04,,4,NA,,NA,0
+560,78d3bd83d75dd1981132eaaf587ccb83,View Dashboard,8/1/2018 1:04,Light,1,NA,,NA,8
+561,813eb4f19558e06d8c6dd73caa1ea52b,View Dashboard,8/1/2018 1:04,Light,3,NA,,NA,0
+562,2dc4ab05664bc381440736d9e28c4bd1,View Dashboard,8/1/2018 1:04,Light,8,NA,,NA,60
+563,87c2a4a0a608c4d7e46a233e117d8e95,Trial Sign Up Completed,8/1/2018 1:04,,1,NA,,NA,8
+564,2dc4ab05664bc381440736d9e28c4bd1,Show More Graphs,8/1/2018 1:05,,8,NA,,11,60
+565,87c2a4a0a608c4d7e46a233e117d8e95,Guide Start,8/1/2018 1:05,,1,NA,,NA,8
+566,88f36b78aebb2e8fe8630271d463ee55,View Dashboard,8/1/2018 1:05,Light,1,NA,,NA,40
+567,ec6d36c64937ed51f7af24b197b54a44,View Dashboard,8/1/2018 1:05,Light,1,NA,,NA,8
+568,2dc4ab05664bc381440736d9e28c4bd1,Show More Graphs,8/1/2018 1:05,,8,NA,,11,60
+569,184aa1848d90368f39d1dd4b50632939,Orientation Switch,8/1/2018 1:05,,4,NA,,NA,0
+570,88f36b78aebb2e8fe8630271d463ee55,Template Connect Button,8/1/2018 1:05,,1,NA,,NA,40
+571,88f36b78aebb2e8fe8630271d463ee55,Add Template Auth,8/1/2018 1:05,,1,NA,,NA,40
+572,763a5c56284f07705a8562c2d4f76976,View Dashboard,8/1/2018 1:05,Light,1,NA,,NA,8
+573,88f36b78aebb2e8fe8630271d463ee55,Add Template DS Settings,8/1/2018 1:05,,1,NA,,NA,40
+574,87c2a4a0a608c4d7e46a233e117d8e95,Guide Start,8/1/2018 1:05,,1,NA,,NA,8
+575,87c2a4a0a608c4d7e46a233e117d8e95,Guide Exit,8/1/2018 1:05,,1,NA,,NA,8
+576,78d3bd83d75dd1981132eaaf587ccb83,Trial Sign Up Completed,8/1/2018 1:05,,1,NA,,NA,8
+577,bcb39f627f0d49dbb83c80d6d826ddc3,View Dashboard,8/1/2018 1:05,Light,3,NA,,NA,23
+578,78d3bd83d75dd1981132eaaf587ccb83,Guide Start,8/1/2018 1:05,,1,NA,,NA,8
+579,87c2a4a0a608c4d7e46a233e117d8e95,Guide Exit,8/1/2018 1:05,,1,NA,,NA,8
+580,88f36b78aebb2e8fe8630271d463ee55,Template Connected,8/1/2018 1:05,,1,NA,,NA,40
+581,ec6d36c64937ed51f7af24b197b54a44,Trial Sign Up Completed,8/1/2018 1:05,,1,NA,,NA,8
+582,87c2a4a0a608c4d7e46a233e117d8e95,Guide Start,8/1/2018 1:05,,1,NA,,NA,8
+583,87c2a4a0a608c4d7e46a233e117d8e95,Add Blank Tab,8/1/2018 1:05,,1,NA,,NA,8
+584,ec6d36c64937ed51f7af24b197b54a44,Guide Start,8/1/2018 1:05,,1,NA,,NA,8
+585,ec6d36c64937ed51f7af24b197b54a44,View Dashboard,8/1/2018 1:05,Light,1,NA,,NA,8
+586,ec6d36c64937ed51f7af24b197b54a44,Guide Start,8/1/2018 1:05,,1,NA,,NA,8
+587,ec6d36c64937ed51f7af24b197b54a44,Guide Exit,8/1/2018 1:05,,1,NA,,NA,8
+588,ec6d36c64937ed51f7af24b197b54a44,Guide Start,8/1/2018 1:05,,1,NA,,NA,8
+589,184aa1848d90368f39d1dd4b50632939,View Dashboard,8/1/2018 1:05,Light,4,NA,,NA,0
+590,bcb39f627f0d49dbb83c80d6d826ddc3,Show More Graphs,8/1/2018 1:05,,3,NA,,7,23
+591,938922ddb1a818ff3b39b8178ba9a3a1,View Dashboard,8/1/2018 1:05,Light,14,NA,,NA,0
+592,938922ddb1a818ff3b39b8178ba9a3a1,Add Existing Tab,8/1/2018 1:06,,14,NA,,NA,0
+593,ec6d36c64937ed51f7af24b197b54a44,Create Data Source,8/1/2018 1:06,,1,NA,,NA,8
+594,3cdc5e38a59a03a8e1b03abfb748b59a,View Dashboard,8/1/2018 1:06,Light,1,NA,,NA,8
+595,813eb4f19558e06d8c6dd73caa1ea52b,View Dashboard,8/1/2018 1:06,Light,3,NA,,NA,0
+596,87c2a4a0a608c4d7e46a233e117d8e95,Create Data Source,8/1/2018 1:06,,1,NA,,NA,8
+597,d96cf694dc904841288eb48c58d05d72,View Dashboard,8/1/2018 1:06,Light,3,NA,,NA,29
+598,87c2a4a0a608c4d7e46a233e117d8e95,Data Source Connector,8/1/2018 1:06,,1,NA,,NA,8
+599,3cdc5e38a59a03a8e1b03abfb748b59a,Create Data Source,8/1/2018 1:06,,1,NA,,NA,8
+600,87c2a4a0a608c4d7e46a233e117d8e95,DS Template Selected,8/1/2018 1:06,,1,NA,,NA,8
+601,3cdc5e38a59a03a8e1b03abfb748b59a,Create Data Source,8/1/2018 1:06,,1,NA,,NA,8
+602,ec6d36c64937ed51f7af24b197b54a44,Data Source Connector,8/1/2018 1:06,,1,NA,,NA,8
+603,78d3bd83d75dd1981132eaaf587ccb83,View Dashboard,8/1/2018 1:06,Light,1,NA,,NA,8
+604,78d3bd83d75dd1981132eaaf587ccb83,Guide Start,8/1/2018 1:06,,1,NA,,NA,8
+605,78d3bd83d75dd1981132eaaf587ccb83,Guide Exit,8/1/2018 1:07,,1,NA,,NA,8
+606,88f36b78aebb2e8fe8630271d463ee55,Template Connect Button,8/1/2018 1:07,,1,NA,,NA,40
+607,88f36b78aebb2e8fe8630271d463ee55,Add Template Auth,8/1/2018 1:07,,1,NA,,NA,40
+608,88f36b78aebb2e8fe8630271d463ee55,Add Template DS Settings,8/1/2018 1:07,,1,NA,,NA,40
+609,88f36b78aebb2e8fe8630271d463ee55,Template Connected,8/1/2018 1:07,,1,NA,,NA,40
+610,87c2a4a0a608c4d7e46a233e117d8e95,Data Source Error,8/1/2018 1:07,,1,NA,,NA,8
+611,9c2f8fff559aa33d9440c22fab314a79,View Dashboard,8/1/2018 1:08,Light,1,NA,,NA,21
+612,77757e99eb32bc0977fe1e5865a19791,View Dashboard,8/1/2018 1:08,Light,13,NA,,NA,0
+613,ec6d36c64937ed51f7af24b197b54a44,Data Source Created,8/1/2018 1:08,,1,NA,,NA,8
+614,88f36b78aebb2e8fe8630271d463ee55,Template Connect Button,8/1/2018 1:08,,1,NA,,NA,40
+615,88f36b78aebb2e8fe8630271d463ee55,Add Template Auth,8/1/2018 1:08,,1,NA,,NA,40
+616,88f36b78aebb2e8fe8630271d463ee55,Error,8/1/2018 1:08,,1,NA,,NA,40
+617,e8b0f503c5720f3c305f37871c4fef40,Graph Saved in Editor,8/1/2018 1:08,,1,NA,Custom,NA,6
+618,77757e99eb32bc0977fe1e5865a19791,View Dashboard,8/1/2018 1:08,Light,13,NA,,NA,0
+619,88f36b78aebb2e8fe8630271d463ee55,Error,8/1/2018 1:08,,1,NA,,NA,40
+620,ec6d36c64937ed51f7af24b197b54a44,View Dashboard,8/1/2018 1:08,Light,1,NA,,NA,8
+621,77757e99eb32bc0977fe1e5865a19791,View Dashboard,8/1/2018 1:08,Light,13,NA,,NA,0
+622,77757e99eb32bc0977fe1e5865a19791,View Dashboard,8/1/2018 1:08,Light,13,NA,,NA,0
+623,88f36b78aebb2e8fe8630271d463ee55,Error,8/1/2018 1:08,,1,NA,,NA,40
+624,ec6d36c64937ed51f7af24b197b54a44,View Dashboard,8/1/2018 1:08,Light,1,NA,,NA,8
+625,ec6d36c64937ed51f7af24b197b54a44,Guide Start,8/1/2018 1:08,,1,NA,,NA,8
+626,ec6d36c64937ed51f7af24b197b54a44,Guide Exit,8/1/2018 1:08,,1,NA,,NA,8
+627,88f36b78aebb2e8fe8630271d463ee55,Error,8/1/2018 1:08,,1,NA,,NA,40
+628,ec6d36c64937ed51f7af24b197b54a44,Add Blank Tab,8/1/2018 1:08,,1,NA,,NA,8
+629,ec6d36c64937ed51f7af24b197b54a44,Guide Start,8/1/2018 1:08,,1,NA,,NA,8
+630,ec6d36c64937ed51f7af24b197b54a44,Add Button,8/1/2018 1:09,,1,NA,,NA,8
+631,ec6d36c64937ed51f7af24b197b54a44,Guide Exit,8/1/2018 1:09,,1,NA,,NA,8
+632,ec6d36c64937ed51f7af24b197b54a44,Guide Start,8/1/2018 1:09,,1,NA,,NA,8
+633,77757e99eb32bc0977fe1e5865a19791,View Dashboard,8/1/2018 1:09,Light,13,NA,,NA,0
+634,77757e99eb32bc0977fe1e5865a19791,View Dashboard,8/1/2018 1:09,Light,13,NA,,NA,0
+635,77757e99eb32bc0977fe1e5865a19791,View Dashboard,8/1/2018 1:09,Light,13,NA,,NA,0
+636,77757e99eb32bc0977fe1e5865a19791,View Dashboard,8/1/2018 1:09,Light,13,NA,,NA,0
+637,77757e99eb32bc0977fe1e5865a19791,View Dashboard,8/1/2018 1:09,Light,13,NA,,NA,0
+638,77757e99eb32bc0977fe1e5865a19791,View Dashboard,8/1/2018 1:09,Light,13,NA,,NA,0
+639,ec6d36c64937ed51f7af24b197b54a44,Graph Gallery,8/1/2018 1:09,,1,NA,,NA,8
+640,77757e99eb32bc0977fe1e5865a19791,View Dashboard,8/1/2018 1:09,Light,13,NA,,NA,0
+641,77757e99eb32bc0977fe1e5865a19791,View Dashboard,8/1/2018 1:09,Light,13,NA,,NA,0
+642,77757e99eb32bc0977fe1e5865a19791,View Dashboard,8/1/2018 1:09,Light,13,NA,,NA,0
+643,88f36b78aebb2e8fe8630271d463ee55,Error,8/1/2018 1:09,,1,NA,,NA,40
+644,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,8/1/2018 1:09,Dark,1,NA,,NA,1
+645,ec6d36c64937ed51f7af24b197b54a44,Add Button,8/1/2018 1:09,,1,NA,,NA,8
+646,ec6d36c64937ed51f7af24b197b54a44,Guide Exit,8/1/2018 1:09,,1,NA,,NA,8
+647,ec6d36c64937ed51f7af24b197b54a44,Graph Gallery,8/1/2018 1:09,,1,NA,,NA,8
+648,ec6d36c64937ed51f7af24b197b54a44,Build a New Graph Button,8/1/2018 1:09,,1,NA,,NA,8
+649,ec6d36c64937ed51f7af24b197b54a44,Guide Exit,8/1/2018 1:09,,1,NA,,NA,8
+650,ec6d36c64937ed51f7af24b197b54a44,Graph Editor,8/1/2018 1:09,,1,NA,Custom,NA,8
+651,88f36b78aebb2e8fe8630271d463ee55,Template Connect Button,8/1/2018 1:09,,1,NA,,NA,40
+652,88f36b78aebb2e8fe8630271d463ee55,Add Template Auth,8/1/2018 1:09,,1,NA,,NA,40
+653,e8b0f503c5720f3c305f37871c4fef40,Edit Graph from Dashboard,8/1/2018 1:10,,1,NA,Custom,NA,1
+654,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,8/1/2018 1:10,,1,NA,Custom,NA,1
+655,88f36b78aebb2e8fe8630271d463ee55,Template Connect Button,8/1/2018 1:10,,1,NA,,NA,40
+656,88f36b78aebb2e8fe8630271d463ee55,Add Template Auth,8/1/2018 1:10,,1,NA,,NA,40
+657,e8b0f503c5720f3c305f37871c4fef40,Graph Saved in Editor,8/1/2018 1:10,,1,NA,Custom,NA,7
+658,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,8/1/2018 1:10,Dark,1,NA,,NA,1
+659,77757e99eb32bc0977fe1e5865a19791,Orientation Switch,8/1/2018 1:10,,13,NA,,NA,0
+660,88f36b78aebb2e8fe8630271d463ee55,Add Template DS Settings,8/1/2018 1:10,,1,NA,,NA,40
+661,938922ddb1a818ff3b39b8178ba9a3a1,Orientation Switch,8/1/2018 1:10,,14,NA,,NA,0
+662,88f36b78aebb2e8fe8630271d463ee55,Template Connected,8/1/2018 1:10,,1,NA,,NA,40
+663,938922ddb1a818ff3b39b8178ba9a3a1,Orientation Switch,8/1/2018 1:10,,14,NA,,NA,0
+664,938922ddb1a818ff3b39b8178ba9a3a1,Orientation Switch,8/1/2018 1:10,,14,NA,,NA,0
+665,e45fcc59771da384ec4f6252ef130fa9,View Dashboard,8/1/2018 1:10,Light,3,NA,,NA,0
+666,77757e99eb32bc0977fe1e5865a19791,Orientation Switch,8/1/2018 1:10,,13,NA,,NA,0
+667,e45fcc59771da384ec4f6252ef130fa9,Show More Graphs,8/1/2018 1:10,,3,NA,,15,0
+668,88f36b78aebb2e8fe8630271d463ee55,Template Connect Button,8/1/2018 1:10,,1,NA,,NA,40
+669,08d3aae4e208ea82cab3a4122cd45411,View Dashboard,8/1/2018 1:10,Light,21,NA,,NA,14
+670,88f36b78aebb2e8fe8630271d463ee55,Add Template Auth,8/1/2018 1:10,,1,NA,,NA,40
+671,e45fcc59771da384ec4f6252ef130fa9,Show More Graphs,8/1/2018 1:10,,3,NA,,15,0
+672,88f36b78aebb2e8fe8630271d463ee55,Add Template DS Settings,8/1/2018 1:10,,1,NA,,NA,40
+673,1a7b31e238551797a91eef869fe0b7a9,Orientation Switch,8/1/2018 1:10,,3,NA,,NA,4
+674,88f36b78aebb2e8fe8630271d463ee55,Template Connected,8/1/2018 1:11,,1,NA,,NA,40
+675,e8b0f503c5720f3c305f37871c4fef40,Edit Graph from Dashboard,8/1/2018 1:11,,1,NA,Custom,NA,1
+676,1a7b31e238551797a91eef869fe0b7a9,Orientation Switch,8/1/2018 1:11,,3,NA,,NA,4
+677,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,8/1/2018 1:11,,1,NA,Custom,NA,1
+678,75931f723e66ffce04ea4d6ecda74174,View Dashboard,8/1/2018 1:11,Light,1,NA,,NA,8
+679,88f36b78aebb2e8fe8630271d463ee55,Template Connect Button,8/1/2018 1:11,,1,NA,,NA,40
+680,88f36b78aebb2e8fe8630271d463ee55,Add Template Auth,8/1/2018 1:11,,1,NA,,NA,40
+681,88f36b78aebb2e8fe8630271d463ee55,Template Connect Button,8/1/2018 1:11,,1,NA,,NA,40
+682,88f36b78aebb2e8fe8630271d463ee55,Add Template Auth,8/1/2018 1:11,,1,NA,,NA,40
+683,88f36b78aebb2e8fe8630271d463ee55,Add Template DS Settings,8/1/2018 1:11,,1,NA,,NA,40
+684,88f36b78aebb2e8fe8630271d463ee55,Template Connected,8/1/2018 1:11,,1,NA,,NA,40
+685,e8b0f503c5720f3c305f37871c4fef40,Graph Saved in Editor,8/1/2018 1:11,,1,NA,Custom,NA,7
+686,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,8/1/2018 1:11,Dark,1,NA,,NA,1
+687,88f36b78aebb2e8fe8630271d463ee55,Template Connect Button,8/1/2018 1:12,,1,NA,,NA,40
+688,88f36b78aebb2e8fe8630271d463ee55,Add Template Auth,8/1/2018 1:12,,1,NA,,NA,40
+689,88f36b78aebb2e8fe8630271d463ee55,Add Template DS Settings,8/1/2018 1:12,,1,NA,,NA,40
+690,88f36b78aebb2e8fe8630271d463ee55,Graph Gallery Error,8/1/2018 1:12,,1,NA,,NA,40
+691,88f36b78aebb2e8fe8630271d463ee55,Add Template Auth,8/1/2018 1:12,,1,NA,,NA,40
+692,88f36b78aebb2e8fe8630271d463ee55,Add Template DS Settings,8/1/2018 1:12,,1,NA,,NA,40
+693,88f36b78aebb2e8fe8630271d463ee55,Graph Gallery Error,8/1/2018 1:12,,1,NA,,NA,40
+694,88f36b78aebb2e8fe8630271d463ee55,Add Template Auth,8/1/2018 1:12,,1,NA,,NA,40
+695,88f36b78aebb2e8fe8630271d463ee55,Add Template DS Settings,8/1/2018 1:12,,1,NA,,NA,40
+696,88f36b78aebb2e8fe8630271d463ee55,Graph Gallery Error,8/1/2018 1:12,,1,NA,,NA,40
+697,88f36b78aebb2e8fe8630271d463ee55,Template Connect Button,8/1/2018 1:12,,1,NA,,NA,40
+698,88f36b78aebb2e8fe8630271d463ee55,Add Template Auth,8/1/2018 1:12,,1,NA,,NA,40
+699,88f36b78aebb2e8fe8630271d463ee55,Add Template DS Settings,8/1/2018 1:13,,1,NA,,NA,40
+700,e8b0f503c5720f3c305f37871c4fef40,Sidebar Help,8/1/2018 1:13,,1,NA,,NA,1
+701,88f36b78aebb2e8fe8630271d463ee55,Template Connected,8/1/2018 1:13,,1,NA,,NA,40
+702,d3a3f99b312aecb7ea7fdb88817ddbc4,View Dashboard,8/1/2018 1:13,Light,118,NA,,NA,0
+703,e8b0f503c5720f3c305f37871c4fef40,Help Resource,8/1/2018 1:13,,1,NA,,NA,1
+704,d3a3f99b312aecb7ea7fdb88817ddbc4,Orientation Switch,8/1/2018 1:13,,118,NA,,NA,0
+705,88f36b78aebb2e8fe8630271d463ee55,Template Connect Button,8/1/2018 1:13,,1,NA,,NA,40
+706,88f36b78aebb2e8fe8630271d463ee55,Add Template Auth,8/1/2018 1:13,,1,NA,,NA,40
+707,88f36b78aebb2e8fe8630271d463ee55,Add Template DS Settings,8/1/2018 1:13,,1,NA,,NA,40
+708,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,8/1/2018 1:13,Dark,1,NA,,NA,1
+709,88f36b78aebb2e8fe8630271d463ee55,Template Connected,8/1/2018 1:13,,1,NA,,NA,40
+710,d3a3f99b312aecb7ea7fdb88817ddbc4,Orientation Switch,8/1/2018 1:13,,118,NA,,NA,0
+711,e8b0f503c5720f3c305f37871c4fef40,Add Blank Tab,8/1/2018 1:14,,1,NA,,NA,1
+712,42a6e310d0fb4cbd4c35755fd0c71564,Graph Editor,8/1/2018 1:14,,1,NA,Custom,NA,8
+713,42a6e310d0fb4cbd4c35755fd0c71564,View Dashboard,8/1/2018 1:14,Light,1,NA,,NA,8
+714,ecc5f4de6cf76814312b3f8b842256de,View Dashboard,8/1/2018 1:14,Light,1,NA,,NA,28
+715,88f36b78aebb2e8fe8630271d463ee55,Template Connect Button,8/1/2018 1:14,,1,NA,,NA,40
+716,88f36b78aebb2e8fe8630271d463ee55,Add Template Auth,8/1/2018 1:14,,1,NA,,NA,40
+717,e8b0f503c5720f3c305f37871c4fef40,Add Button,8/1/2018 1:14,,1,NA,,NA,1
+718,88f36b78aebb2e8fe8630271d463ee55,Add Template DS Settings,8/1/2018 1:14,,1,NA,,NA,40
+719,2c7312b8fc1aa94a24847baa699ccde3,View Dashboard,8/1/2018 1:14,Light,3,NA,,NA,0
+720,e8b0f503c5720f3c305f37871c4fef40,Build a New Graph Button,8/1/2018 1:14,,1,NA,,NA,1
+721,88f36b78aebb2e8fe8630271d463ee55,Template Connected,8/1/2018 1:15,,1,NA,,NA,40
+722,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,8/1/2018 1:15,,1,NA,Custom,NA,1
+723,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,8/1/2018 1:15,,1,NA,Custom,NA,1
+724,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,8/1/2018 1:15,Dark,1,NA,,NA,1
+725,2c7312b8fc1aa94a24847baa699ccde3,Show More Graphs,8/1/2018 1:15,,3,NA,,10,0
+726,88f36b78aebb2e8fe8630271d463ee55,Template Connect Button,8/1/2018 1:15,,1,NA,,NA,40
+727,88f36b78aebb2e8fe8630271d463ee55,Add Template Auth,8/1/2018 1:15,,1,NA,,NA,40
+728,88f36b78aebb2e8fe8630271d463ee55,Add Template DS Settings,8/1/2018 1:15,,1,NA,,NA,40
+729,88f36b78aebb2e8fe8630271d463ee55,Graph Gallery Error,8/1/2018 1:15,,1,NA,,NA,40
+730,88f36b78aebb2e8fe8630271d463ee55,Add Template Auth,8/1/2018 1:16,,1,NA,,NA,40
+731,88f36b78aebb2e8fe8630271d463ee55,Add Template DS Settings,8/1/2018 1:16,,1,NA,,NA,40
+732,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,8/1/2018 1:16,Dark,1,NA,,NA,1
+733,88f36b78aebb2e8fe8630271d463ee55,Graph Gallery Error,8/1/2018 1:16,,1,NA,,NA,40
+734,c29da51fb35aced0dde456d0dc8f3f17,View Dashboard,8/1/2018 1:16,Light,1,NA,,NA,8
+735,813eb4f19558e06d8c6dd73caa1ea52b,View Dashboard,8/1/2018 1:16,Light,3,NA,,NA,0
+736,88f36b78aebb2e8fe8630271d463ee55,Template Connect Button,8/1/2018 1:16,,1,NA,,NA,40
+737,88f36b78aebb2e8fe8630271d463ee55,Add Template Auth,8/1/2018 1:16,,1,NA,,NA,40
+738,88f36b78aebb2e8fe8630271d463ee55,Error,8/1/2018 1:16,,1,NA,,NA,40
+739,c29da51fb35aced0dde456d0dc8f3f17,Trial Sign Up Completed,8/1/2018 1:16,,1,NA,,NA,8
+740,e8b0f503c5720f3c305f37871c4fef40,Edit Graph from Dashboard,8/1/2018 1:16,,1,NA,Custom,NA,1
+741,88f36b78aebb2e8fe8630271d463ee55,Add Template DS Settings,8/1/2018 1:16,,1,NA,,NA,40
+742,c29da51fb35aced0dde456d0dc8f3f17,Guide Start,8/1/2018 1:16,,1,NA,,NA,8
+743,e8b0f503c5720f3c305f37871c4fef40,Graph Editor,8/1/2018 1:16,,1,NA,Custom,NA,1
+744,c29da51fb35aced0dde456d0dc8f3f17,View Dashboard,8/1/2018 1:16,Light,1,NA,,NA,8
+745,88f36b78aebb2e8fe8630271d463ee55,Graph Gallery Error,8/1/2018 1:16,,1,NA,,NA,40
+746,c29da51fb35aced0dde456d0dc8f3f17,Guide Start,8/1/2018 1:16,,1,NA,,NA,8
+747,c29da51fb35aced0dde456d0dc8f3f17,View Dashboard,8/1/2018 1:16,Light,1,NA,,NA,8
+748,c29da51fb35aced0dde456d0dc8f3f17,Guide Exit,8/1/2018 1:16,,1,NA,,NA,8
+749,c29da51fb35aced0dde456d0dc8f3f17,Guide Start,8/1/2018 1:16,,1,NA,,NA,8
+750,c29da51fb35aced0dde456d0dc8f3f17,Guide Start,8/1/2018 1:16,,1,NA,,NA,8
+751,e8b0f503c5720f3c305f37871c4fef40,Graph Saved in Editor,8/1/2018 1:16,,1,NA,Custom,NA,7
+752,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,8/1/2018 1:16,Dark,1,NA,,NA,1
+753,88f36b78aebb2e8fe8630271d463ee55,View Dashboard,8/1/2018 1:17,Light,1,NA,,NA,40
+754,e8b0f503c5720f3c305f37871c4fef40,Logo Change Started,8/1/2018 1:17,,1,NA,,NA,1
+755,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,8/1/2018 1:18,Dark,1,NA,,NA,1
+756,c29da51fb35aced0dde456d0dc8f3f17,Build Graph from Library,8/1/2018 1:18,,1,NA,,NA,8
+757,c29da51fb35aced0dde456d0dc8f3f17,Graph Editor,8/1/2018 1:18,,1,NA,Custom,NA,8
+758,b4cf9fb986f90f3257786d5f3611b68d,View Dashboard,8/1/2018 1:18,Light,8,NA,,NA,0
+759,e8b0f503c5720f3c305f37871c4fef40,Logo Change Started,8/1/2018 1:18,,1,NA,,NA,1
+760,e8b0f503c5720f3c305f37871c4fef40,View Dashboard,8/1/2018 1:18,Dark,1,NA,,NA,1
+761,c29da51fb35aced0dde456d0dc8f3f17,Guide Start,8/1/2018 1:18,,1,NA,,NA,8
+762,88f36b78aebb2e8fe8630271d463ee55,View Dashboard,8/1/2018 1:18,Light,1,NA,,NA,40
+763,88f36b78aebb2e8fe8630271d463ee55,Add Button,8/1/2018 1:19,,1,NA,,NA,40
+764,88f36b78aebb2e8fe8630271d463ee55,Graph Gallery,8/1/2018 1:19,,1,NA,,NA,40
+765,88f36b78aebb2e8fe8630271d463ee55,Graph Gallery,8/1/2018 1:19,,1,NA,,NA,40
+766,e3b55cc4dbf2c5bd84af7f04eee4064e,View Dashboard,8/1/2018 1:19,Light,49,NA,,NA,0
+767,88f36b78aebb2e8fe8630271d463ee55,Add Button,8/1/2018 1:19,,1,NA,,NA,40
+768,88f36b78aebb2e8fe8630271d463ee55,Graph Gallery,8/1/2018 1:19,,1,NA,,NA,40
+769,e3b55cc4dbf2c5bd84af7f04eee4064e,Orientation Switch,8/1/2018 1:20,,49,NA,,NA,0
+770,7989d44de16087d458d839e2dfbd60b0,Graph Editor,8/1/2018 1:20,,1,NA,Custom,NA,15
+771,7989d44de16087d458d839e2dfbd60b0,Graph Editor,8/1/2018 1:20,,1,NA,Custom,NA,15
+772,e3b55cc4dbf2c5bd84af7f04eee4064e,Orientation Switch,8/1/2018 1:20,,49,NA,,NA,0
+773,e3b55cc4dbf2c5bd84af7f04eee4064e,View Dashboard,8/1/2018 1:20,Light,49,NA,,NA,0
+774,e8b0f503c5720f3c305f37871c4fef40,Sidebar Help,8/1/2018 1:20,,1,NA,,NA,1
+775,a22411aeb27e088c40a4b6ad21b80b9e,View Dashboard,8/1/2018 1:20,Dark,1,NA,,NA,11
+776,4398c530a4d5f3760fd740107dbc670b,View Dashboard,8/1/2018 1:20,Dark,3,NA,,NA,0
+777,c29da51fb35aced0dde456d0dc8f3f17,Graph Saved in Editor,8/1/2018 1:20,,1,NA,Custom,NA,8
+778,c29da51fb35aced0dde456d0dc8f3f17,Editor Survey,8/1/2018 1:20,,1,NA,,NA,8
+779,883875a18510e68dcc642a6875717d15,View Dashboard,8/1/2018 1:20,Light,1,NA,,NA,38
+780,883875a18510e68dcc642a6875717d15,View Dashboard,8/1/2018 1:21,Light,1,NA,,NA,38
+781,883875a18510e68dcc642a6875717d15,View Dashboard,8/1/2018 1:21,Light,1,NA,,NA,38
+782,7989d44de16087d458d839e2dfbd60b0,Graph Saved in Editor,8/1/2018 1:21,,1,NA,Custom,NA,15
+783,c29da51fb35aced0dde456d0dc8f3f17,Create Data Source,8/1/2018 1:21,,1,NA,,NA,9
+784,e8b0f503c5720f3c305f37871c4fef40,Sidebar Help,8/1/2018 1:21,,1,NA,,NA,7
+785,7989d44de16087d458d839e2dfbd60b0,Graph Saved in Editor,8/1/2018 1:21,,1,NA,Custom,NA,15
+786,c29da51fb35aced0dde456d0dc8f3f17,Sidebar Help,8/1/2018 1:21,,1,NA,,NA,8
+787,7989d44de16087d458d839e2dfbd60b0,Graph Saved in Editor,8/1/2018 1:21,,1,NA,Custom,NA,15
+788,3cad74c41b8f449a72eeb3ec457f01b2,View Dashboard,8/1/2018 1:21,Light,2,NA,,NA,27
+789,c29da51fb35aced0dde456d0dc8f3f17,Sidebar Help,8/1/2018 1:21,,1,NA,,NA,8
+790,e8b0f503c5720f3c305f37871c4fef40,View Plans,8/1/2018 1:21,,1,NA,,NA,7
+791,e8b0f503c5720f3c305f37871c4fef40,Guide Start,8/1/2018 1:21,,1,NA,,NA,7
+792,7989d44de16087d458d839e2dfbd60b0,Graph Editor,8/1/2018 1:21,,1,NA,Custom,NA,15
+793,938922ddb1a818ff3b39b8178ba9a3a1,Orientation Switch,8/1/2018 1:22,,14,NA,,NA,0
+794,938922ddb1a818ff3b39b8178ba9a3a1,View Dashboard,8/1/2018 1:22,Light,14,NA,,NA,0
+795,938922ddb1a818ff3b39b8178ba9a3a1,Orientation Switch,8/1/2018 1:22,,14,NA,,NA,0
+796,7989d44de16087d458d839e2dfbd60b0,Graph Saved in Editor,8/1/2018 1:22,,1,NA,Custom,NA,15
+797,e8b0f503c5720f3c305f37871c4fef40,Purchase Company Details,8/1/2018 1:23,,1,NA,,NA,7
+798,5943f3577db9006e38f2b15c35a05c34,View Dashboard,8/1/2018 1:23,Light,1,NA,,NA,4
+799,7989d44de16087d458d839e2dfbd60b0,Graph Saved in Editor,8/1/2018 1:23,,1,NA,Custom,NA,15
+800,7989d44de16087d458d839e2dfbd60b0,Graph Saved in Editor,8/1/2018 1:23,,1,NA,Custom,NA,15
+801,7989d44de16087d458d839e2dfbd60b0,Build Graph from Library,8/1/2018 1:23,,1,NA,,NA,15
+802,e8b0f503c5720f3c305f37871c4fef40,Purchase Billing Details,8/1/2018 1:23,,1,NA,,NA,7
+803,7989d44de16087d458d839e2dfbd60b0,Graph Editor,8/1/2018 1:23,,1,NA,Custom,NA,15
+804,e8b0f503c5720f3c305f37871c4fef40,Purchase Confirm Details,8/1/2018 1:24,,1,NA,,NA,7
+805,bf6e66e4ef777a29b906e77a5cfff13a,Manual Refresh,8/1/2018 1:24,,3,NA,,NA,16
+806,bf6e66e4ef777a29b906e77a5cfff13a,Show More Graphs,8/1/2018 1:24,,3,NA,,6,16
+807,bf6e66e4ef777a29b906e77a5cfff13a,View Dashboard,8/1/2018 1:24,Light,3,NA,,NA,16
+808,bf6e66e4ef777a29b906e77a5cfff13a,Tab Switched,8/1/2018 1:24,,3,NA,,NA,16
+809,bf6e66e4ef777a29b906e77a5cfff13a,Manual Refresh,8/1/2018 1:24,,3,NA,,NA,16
+810,bf6e66e4ef777a29b906e77a5cfff13a,Manual Refresh,8/1/2018 1:24,,3,NA,,NA,16
+811,d3a3f99b312aecb7ea7fdb88817ddbc4,View Dashboard,8/1/2018 1:25,Light,118,NA,,NA,0
+812,7989d44de16087d458d839e2dfbd60b0,Graph Saved in Editor,8/1/2018 1:26,,1,NA,Custom,NA,15
+813,7989d44de16087d458d839e2dfbd60b0,Graph Editor,8/1/2018 1:27,,1,NA,Custom,NA,15
+814,7989d44de16087d458d839e2dfbd60b0,Graph Saved in Editor,8/1/2018 1:27,,1,NA,Custom,NA,16
+815,4eb76c8ca4473d1e2aec236c1c78fe6c,View Dashboard,8/1/2018 1:27,Dark,2,NA,,NA,13
+816,d3a3f99b312aecb7ea7fdb88817ddbc4,View Dashboard,8/1/2018 1:28,Light,118,NA,,NA,0
+817,d3a3f99b312aecb7ea7fdb88817ddbc4,Orientation Switch,8/1/2018 1:28,,118,NA,,NA,0
+818,831c2431e86b81fa0afb0596cafc2191,View Dashboard,8/1/2018 1:28,Light,1,NA,,NA,9
+819,d3a3f99b312aecb7ea7fdb88817ddbc4,Orientation Switch,8/1/2018 1:28,,118,NA,,NA,0
+820,ea0a1aa5119972fc3c8b79db33fcc37b,View Dashboard,8/1/2018 1:29,Light,2,NA,,NA,60
+821,013e23de101611ec4ba9f65a089981aa,Orientation Switch,8/1/2018 1:29,,71,NA,,NA,7
+822,013e23de101611ec4ba9f65a089981aa,Orientation Switch,8/1/2018 1:29,,71,NA,,NA,7
+823,ab78ca911d5ebe89ce3895278faad661,View Dashboard,8/1/2018 1:30,Light,1,NA,,NA,8
+824,6219c5a8680744c6e4644198f9a713fe,View Dashboard,8/1/2018 1:31,Light,1,NA,,NA,8
+825,6219c5a8680744c6e4644198f9a713fe,Dashboard Template Added,8/1/2018 1:31,,1,NA,,NA,8
+826,bb44ea9a534e3f0e0b6a723cf87eba42,View Dashboard,8/1/2018 1:31,Light,69,NA,,NA,0
+827,6219c5a8680744c6e4644198f9a713fe,Add Existing Tab,8/1/2018 1:31,,1,NA,,NA,8
+828,ea0a1aa5119972fc3c8b79db33fcc37b,View Dashboard,8/1/2018 1:31,Light,2,NA,,NA,60
+829,013e23de101611ec4ba9f65a089981aa,Orientation Switch,8/1/2018 1:31,,71,NA,,NA,7
+830,013e23de101611ec4ba9f65a089981aa,Orientation Switch,8/1/2018 1:31,,71,NA,,NA,7
+831,013e23de101611ec4ba9f65a089981aa,Orientation Switch,8/1/2018 1:31,,71,NA,,NA,7
+832,013e23de101611ec4ba9f65a089981aa,Orientation Switch,8/1/2018 1:31,,71,NA,,NA,7
+833,013e23de101611ec4ba9f65a089981aa,Orientation Switch,8/1/2018 1:31,,71,NA,,NA,7
+834,013e23de101611ec4ba9f65a089981aa,Orientation Switch,8/1/2018 1:31,,71,NA,,NA,7
+835,013e23de101611ec4ba9f65a089981aa,Orientation Switch,8/1/2018 1:32,,71,NA,,NA,7
+836,ea0a1aa5119972fc3c8b79db33fcc37b,View Dashboard,8/1/2018 1:32,Light,2,NA,,NA,60
+837,013e23de101611ec4ba9f65a089981aa,Orientation Switch,8/1/2018 1:32,,71,NA,,NA,7
+838,013e23de101611ec4ba9f65a089981aa,Orientation Switch,8/1/2018 1:32,,71,NA,,NA,7
+839,013e23de101611ec4ba9f65a089981aa,Orientation Switch,8/1/2018 1:32,,71,NA,,NA,7
+840,c552287ac2b39da2c4a12504417da891,View Dashboard,8/1/2018 1:32,Light,1,NA,,NA,8
+841,938922ddb1a818ff3b39b8178ba9a3a1,View Dashboard,8/1/2018 1:33,Light,14,NA,,NA,0
+842,938922ddb1a818ff3b39b8178ba9a3a1,Orientation Switch,8/1/2018 1:33,,14,NA,,NA,0
+843,7989d44de16087d458d839e2dfbd60b0,Graph Editor,8/1/2018 1:33,,1,NA,Custom,NA,15
+844,7989d44de16087d458d839e2dfbd60b0,Build Graph from Library,8/1/2018 1:33,,1,NA,,NA,15
+845,7989d44de16087d458d839e2dfbd60b0,Graph Editor,8/1/2018 1:33,,1,NA,Custom,NA,15
+846,ee647f4e3514e2f71f4ede8d054fcc60,View Dashboard,8/1/2018 1:35,Light,1,NA,,NA,8
+847,d3a3f99b312aecb7ea7fdb88817ddbc4,View Dashboard,8/1/2018 1:37,Light,118,NA,,NA,0
+848,d3a3f99b312aecb7ea7fdb88817ddbc4,Orientation Switch,8/1/2018 1:37,,118,NA,,NA,0
+849,d3a3f99b312aecb7ea7fdb88817ddbc4,Orientation Switch,8/1/2018 1:37,,118,NA,,NA,0
+850,a22411aeb27e088c40a4b6ad21b80b9e,View Dashboard,8/1/2018 1:38,Dark,1,NA,,NA,11
+851,c7cb32f712bd28d7bf874f56f3ecf938,Data Source Error,8/1/2018 1:40,,4,NA,,NA,13
+852,55971db4aee962c0a71595ab98e47855,View Dashboard,8/1/2018 1:41,Light,1,NA,,NA,33
+853,f9b184929e3c74c212e173fe58b65b34,View Dashboard,8/1/2018 1:43,Light,18,NA,,NA,0
+854,c7cb32f712bd28d7bf874f56f3ecf938,Data Source Error,8/1/2018 1:44,,4,NA,,NA,13
+855,3f74b4421b42fa8f182ece7dffd81d75,View Dashboard,8/1/2018 1:44,Light,6,NA,,NA,0
+856,3f74b4421b42fa8f182ece7dffd81d75,Orientation Switch,8/1/2018 1:44,,6,NA,,NA,0
+857,c7cb32f712bd28d7bf874f56f3ecf938,Data Source Error,8/1/2018 1:44,,4,NA,,NA,13
+858,c7cb32f712bd28d7bf874f56f3ecf938,Data Source Error,8/1/2018 1:44,,4,NA,,NA,13
+859,51b809b091fc0f51dc7aca9ddc486bfe,Add Button,8/1/2018 1:44,,1,NA,,NA,8
+860,51b809b091fc0f51dc7aca9ddc486bfe,Build a New Graph Button,8/1/2018 1:44,,1,NA,,NA,8
+861,c7cb32f712bd28d7bf874f56f3ecf938,Data Source Error,8/1/2018 1:44,,4,NA,,NA,13
+862,51b809b091fc0f51dc7aca9ddc486bfe,Graph Editor,8/1/2018 1:44,,1,NA,Custom,NA,8
+863,883875a18510e68dcc642a6875717d15,View Dashboard,8/1/2018 1:45,Light,1,NA,,NA,38
+864,c7cb32f712bd28d7bf874f56f3ecf938,Data Source Error,8/1/2018 1:45,,4,NA,,NA,13
+865,3cad74c41b8f449a72eeb3ec457f01b2,View Dashboard,8/1/2018 1:45,Light,2,NA,,NA,27
+866,3cad74c41b8f449a72eeb3ec457f01b2,Edit Graph from Dashboard,8/1/2018 1:45,,2,NA,Custom,NA,27
