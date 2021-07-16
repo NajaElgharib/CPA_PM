@@ -113,12 +113,11 @@ deleteTruncatedTracesEnd <- function(dataset, groupID, lastEvent, value){
 }
 
 #delete traces with total duration less than t
-deleteTracesWithTimeLess(dataset, groupID, time, t){
+deleteTracesWithTimeLess <- function(dataset, groupID, time, t){
   groupID <- enquo(groupID)
   time <- enquo(time)
-  
   dataset %>%
-    group_by(!!groupID) %>% filter((last(time)-first(time)) <t)
+  group_by(!!groupID) %>% filter((last(time)-first(time)) <t)
 }
 
 #concatenate two columns
