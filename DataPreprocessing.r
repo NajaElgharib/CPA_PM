@@ -61,7 +61,9 @@ deleteColumns <- function(dataset, ...) {
 }
 
 #filter rows
-filter(.dataset, ...) -> dataset
+filter <- function(.dataset, ...) {
+  dataset %>% filter(...) -> dataset
+}
 
 #remove rows with low frequency
 #num represents the frequency number
