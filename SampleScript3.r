@@ -28,7 +28,7 @@ EventLogs %>% filter(company_id != "") -> EventLogs
 removeEventsLowFrequency(EventLogs, event, 10) -> EventLogs
 
 # delete cases with few events
-deleteTraceLengthLessThan(EventLogs, company_id, 5) -> EventLogs
+deleteTracesLengthLessThan(EventLogs, company_id, 5) -> EventLogs
 
 #arrange rows according to variables company_id and time
 arrangeRows(EventLogs, company_id, time) -> EventLogs
